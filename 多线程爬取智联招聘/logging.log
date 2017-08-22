@@ -1,0 +1,2624 @@
+2017-08-22 22:28:48,146 数据表创建成功
+2017-08-22 22:28:48,162 Starting new HTTP connection (1): sou.zhaopin.com
+2017-08-22 22:28:48,809 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E6%B7%B1%E5%9C%B3&kw=iOS HTTP/1.1" 200 None
+2017-08-22 22:28:48,888 一共1574个职位,27 页
+2017-08-22 22:28:48,891 Starting new HTTP connection (1): sou.zhaopin.com
+2017-08-22 22:28:49,070 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E6%B7%B1%E5%9C%B3&kw=iOS&p=1 HTTP/1.1" 200 None
+2017-08-22 22:28:49,179 Starting new HTTP connection (1): sou.zhaopin.com
+2017-08-22 22:28:49,350 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E6%B7%B1%E5%9C%B3&kw=iOS&p=2 HTTP/1.1" 200 None
+2017-08-22 22:28:49,455 Starting new HTTP connection (1): sou.zhaopin.com
+2017-08-22 22:28:49,628 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E6%B7%B1%E5%9C%B3&kw=iOS&p=3 HTTP/1.1" 200 None
+2017-08-22 22:28:49,718 Starting new HTTP connection (1): sou.zhaopin.com
+2017-08-22 22:28:49,912 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E6%B7%B1%E5%9C%B3&kw=iOS&p=4 HTTP/1.1" 200 None
+2017-08-22 22:28:50,033 Starting new HTTP connection (1): sou.zhaopin.com
+2017-08-22 22:28:50,280 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E6%B7%B1%E5%9C%B3&kw=iOS&p=5 HTTP/1.1" 200 None
+2017-08-22 22:28:50,352 Starting new HTTP connection (1): sou.zhaopin.com
+2017-08-22 22:28:50,783 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E6%B7%B1%E5%9C%B3&kw=iOS&p=6 HTTP/1.1" 200 None
+2017-08-22 22:28:50,955 Starting new HTTP connection (1): sou.zhaopin.com
+2017-08-22 22:28:51,386 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E6%B7%B1%E5%9C%B3&kw=iOS&p=7 HTTP/1.1" 200 None
+2017-08-22 22:28:51,593 Starting new HTTP connection (1): sou.zhaopin.com
+2017-08-22 22:28:51,781 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E6%B7%B1%E5%9C%B3&kw=iOS&p=8 HTTP/1.1" 200 None
+2017-08-22 22:28:51,891 Starting new HTTP connection (1): sou.zhaopin.com
+2017-08-22 22:28:52,109 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E6%B7%B1%E5%9C%B3&kw=iOS&p=9 HTTP/1.1" 200 None
+2017-08-22 22:28:52,219 Starting new HTTP connection (1): sou.zhaopin.com
+2017-08-22 22:28:52,393 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E6%B7%B1%E5%9C%B3&kw=iOS&p=10 HTTP/1.1" 200 None
+2017-08-22 22:28:52,504 Starting new HTTP connection (1): sou.zhaopin.com
+2017-08-22 22:28:52,695 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E6%B7%B1%E5%9C%B3&kw=iOS&p=11 HTTP/1.1" 200 None
+2017-08-22 22:28:52,812 Starting new HTTP connection (1): sou.zhaopin.com
+2017-08-22 22:28:53,302 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E6%B7%B1%E5%9C%B3&kw=iOS&p=12 HTTP/1.1" 200 None
+2017-08-22 22:28:53,364 Starting new HTTP connection (1): sou.zhaopin.com
+2017-08-22 22:28:53,588 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E6%B7%B1%E5%9C%B3&kw=iOS&p=13 HTTP/1.1" 200 None
+2017-08-22 22:28:53,689 Starting new HTTP connection (1): sou.zhaopin.com
+2017-08-22 22:28:53,927 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E6%B7%B1%E5%9C%B3&kw=iOS&p=14 HTTP/1.1" 200 None
+2017-08-22 22:28:54,021 Starting new HTTP connection (1): sou.zhaopin.com
+2017-08-22 22:28:55,248 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E6%B7%B1%E5%9C%B3&kw=iOS&p=15 HTTP/1.1" 200 None
+2017-08-22 22:28:55,330 Starting new HTTP connection (1): sou.zhaopin.com
+2017-08-22 22:28:55,522 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E6%B7%B1%E5%9C%B3&kw=iOS&p=16 HTTP/1.1" 200 None
+2017-08-22 22:28:55,621 Starting new HTTP connection (1): sou.zhaopin.com
+2017-08-22 22:28:55,811 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E6%B7%B1%E5%9C%B3&kw=iOS&p=17 HTTP/1.1" 200 None
+2017-08-22 22:28:55,915 Starting new HTTP connection (1): sou.zhaopin.com
+2017-08-22 22:28:56,086 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E6%B7%B1%E5%9C%B3&kw=iOS&p=18 HTTP/1.1" 200 None
+2017-08-22 22:28:56,178 Starting new HTTP connection (1): sou.zhaopin.com
+2017-08-22 22:28:56,477 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E6%B7%B1%E5%9C%B3&kw=iOS&p=19 HTTP/1.1" 200 None
+2017-08-22 22:28:56,553 Starting new HTTP connection (1): sou.zhaopin.com
+2017-08-22 22:28:56,736 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E6%B7%B1%E5%9C%B3&kw=iOS&p=20 HTTP/1.1" 200 None
+2017-08-22 22:28:56,828 Starting new HTTP connection (1): sou.zhaopin.com
+2017-08-22 22:28:57,030 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E6%B7%B1%E5%9C%B3&kw=iOS&p=21 HTTP/1.1" 200 None
+2017-08-22 22:28:57,118 Starting new HTTP connection (1): sou.zhaopin.com
+2017-08-22 22:28:57,317 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E6%B7%B1%E5%9C%B3&kw=iOS&p=22 HTTP/1.1" 200 None
+2017-08-22 22:28:57,416 Starting new HTTP connection (1): sou.zhaopin.com
+2017-08-22 22:28:57,622 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E6%B7%B1%E5%9C%B3&kw=iOS&p=23 HTTP/1.1" 200 None
+2017-08-22 22:28:57,719 Starting new HTTP connection (1): sou.zhaopin.com
+2017-08-22 22:28:58,217 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E6%B7%B1%E5%9C%B3&kw=iOS&p=24 HTTP/1.1" 200 None
+2017-08-22 22:28:58,283 Starting new HTTP connection (1): sou.zhaopin.com
+2017-08-22 22:28:58,601 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E6%B7%B1%E5%9C%B3&kw=iOS&p=25 HTTP/1.1" 200 None
+2017-08-22 22:28:58,703 Starting new HTTP connection (1): sou.zhaopin.com
+2017-08-22 22:28:59,241 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E6%B7%B1%E5%9C%B3&kw=iOS&p=26 HTTP/1.1" 200 None
+2017-08-22 22:28:59,306 Starting new HTTP connection (1): sou.zhaopin.com
+2017-08-22 22:28:59,483 http://sou.zhaopin.com:80 "GET /jobs/searchresult.ashx?jl=%E6%B7%B1%E5%9C%B3&kw=iOS&p=27 HTTP/1.1" 200 None
+2017-08-22 22:29:00,611 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:00,617 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:00,618 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:00,731 http://jobs.zhaopin.com:80 "GET /282148031250031.htm HTTP/1.1" 200 None
+2017-08-22 22:29:00,738 http://jobs.zhaopin.com:80 "GET /391965836250081.htm HTTP/1.1" 200 None
+2017-08-22 22:29:00,751 http://jobs.zhaopin.com:80 "GET /521160184250992.htm HTTP/1.1" 200 None
+2017-08-22 22:29:00,771 成功插入1 条数据
+2017-08-22 22:29:00,788 成功插入1 条数据
+2017-08-22 22:29:00,811 成功插入1 条数据
+2017-08-22 22:29:01,749 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:01,761 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:01,791 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:02,055 http://jobs.zhaopin.com:80 "GET /479395336250094.htm HTTP/1.1" 200 None
+2017-08-22 22:29:02,056 http://jobs.zhaopin.com:80 "GET /307526981250017.htm HTTP/1.1" 200 None
+2017-08-22 22:29:02,057 http://jobs.zhaopin.com:80 "GET /526818638250034.htm HTTP/1.1" 200 None
+2017-08-22 22:29:02,088 成功插入2 条数据
+2017-08-22 22:29:02,114 成功插入2 条数据
+2017-08-22 22:29:02,128 成功插入2 条数据
+2017-08-22 22:29:03,072 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:03,072 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:03,073 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:03,243 http://jobs.zhaopin.com:80 "GET /276750883250119.htm HTTP/1.1" 200 None
+2017-08-22 22:29:03,249 http://jobs.zhaopin.com:80 "GET /691128728250048.htm HTTP/1.1" 200 None
+2017-08-22 22:29:03,296 成功插入3 条数据
+2017-08-22 22:29:03,305 成功插入3 条数据
+2017-08-22 22:29:03,464 http://jobs.zhaopin.com:80 "GET /CZ716921240J00024077405.htm HTTP/1.1" 200 None
+2017-08-22 22:29:03,487 成功插入4 条数据
+2017-08-22 22:29:04,258 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:04,259 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:04,380 http://jobs.zhaopin.com:80 "GET /388379486250106.htm HTTP/1.1" 200 None
+2017-08-22 22:29:04,387 http://jobs.zhaopin.com:80 "GET /652219926250034.htm HTTP/1.1" 200 None
+2017-08-22 22:29:04,414 成功插入4 条数据
+2017-08-22 22:29:04,428 成功插入3 条数据
+2017-08-22 22:29:04,470 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:04,588 http://jobs.zhaopin.com:80 "GET /264636718251473.htm HTTP/1.1" 200 None
+2017-08-22 22:29:04,609 成功插入5 条数据
+2017-08-22 22:29:05,397 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:05,398 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:05,510 http://jobs.zhaopin.com:80 "GET /326067518250232.htm HTTP/1.1" 200 None
+2017-08-22 22:29:05,555 http://jobs.zhaopin.com:80 "GET /120167001251237.htm HTTP/1.1" 200 None
+2017-08-22 22:29:05,578 成功插入5 条数据
+2017-08-22 22:29:05,596 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:05,598 成功插入6 条数据
+2017-08-22 22:29:05,707 http://jobs.zhaopin.com:80 "GET /158632619261245.htm HTTP/1.1" 200 None
+2017-08-22 22:29:05,798 成功插入7 条数据
+2017-08-22 22:29:06,560 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:06,565 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:06,664 http://jobs.zhaopin.com:80 "GET /000592781258055.htm HTTP/1.1" 200 None
+2017-08-22 22:29:06,692 http://jobs.zhaopin.com:80 "GET /000592781258056.htm HTTP/1.1" 200 None
+2017-08-22 22:29:06,754 成功插入8 条数据
+2017-08-22 22:29:06,775 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:06,851 成功插入4 条数据
+2017-08-22 22:29:06,873 http://jobs.zhaopin.com:80 "GET /269549425251375.htm HTTP/1.1" 200 None
+2017-08-22 22:29:06,948 成功插入6 条数据
+2017-08-22 22:29:07,709 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:07,805 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:07,829 http://jobs.zhaopin.com:80 "GET /158632619261055.htm HTTP/1.1" 200 None
+2017-08-22 22:29:07,903 成功插入5 条数据
+2017-08-22 22:29:07,927 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:07,937 http://jobs.zhaopin.com:80 "GET /000456713305366.htm HTTP/1.1" 200 None
+2017-08-22 22:29:07,970 成功插入7 条数据
+2017-08-22 22:29:08,044 http://jobs.zhaopin.com:80 "GET /120073817251240.htm HTTP/1.1" 200 None
+2017-08-22 22:29:08,171 成功插入8 条数据
+2017-08-22 22:29:08,875 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:08,945 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:09,035 http://jobs.zhaopin.com:80 "GET /134467292251913.htm HTTP/1.1" 200 None
+2017-08-22 22:29:09,110 http://jobs.zhaopin.com:80 "GET /508620126257882.htm HTTP/1.1" 200 None
+2017-08-22 22:29:09,129 成功插入9 条数据
+2017-08-22 22:29:09,140 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:09,153 成功插入9 条数据
+2017-08-22 22:29:09,277 http://jobs.zhaopin.com:80 "GET /265601188250070.htm HTTP/1.1" 200 None
+2017-08-22 22:29:09,314 成功插入10 条数据
+2017-08-22 22:29:10,086 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:10,124 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:10,218 http://jobs.zhaopin.com:80 "GET /350293611250337.htm HTTP/1.1" 200 None
+2017-08-22 22:29:10,246 成功插入6 条数据
+2017-08-22 22:29:10,268 http://jobs.zhaopin.com:80 "GET /508620126257269.htm HTTP/1.1" 200 None
+2017-08-22 22:29:10,289 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:10,318 成功插入10 条数据
+2017-08-22 22:29:10,418 http://jobs.zhaopin.com:80 "GET /656144027250356.htm HTTP/1.1" 200 None
+2017-08-22 22:29:10,447 成功插入11 条数据
+2017-08-22 22:29:11,230 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:11,279 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:11,331 http://jobs.zhaopin.com:80 "GET /447244528250052.htm HTTP/1.1" 200 None
+2017-08-22 22:29:11,393 成功插入12 条数据
+2017-08-22 22:29:11,423 http://jobs.zhaopin.com:80 "GET /508620126257433.htm HTTP/1.1" 200 None
+2017-08-22 22:29:11,427 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:11,501 成功插入7 条数据
+2017-08-22 22:29:11,553 http://jobs.zhaopin.com:80 "GET /305493616267213.htm HTTP/1.1" 200 None
+2017-08-22 22:29:11,618 成功插入11 条数据
+2017-08-22 22:29:12,376 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:12,482 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:12,586 http://jobs.zhaopin.com:80 "GET /146033881263853.htm HTTP/1.1" 200 None
+2017-08-22 22:29:12,591 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:12,619 成功插入12 条数据
+2017-08-22 22:29:12,623 http://jobs.zhaopin.com:80 "GET /617690826250032.htm HTTP/1.1" 200 None
+2017-08-22 22:29:12,655 成功插入13 条数据
+2017-08-22 22:29:12,896 http://jobs.zhaopin.com:80 "GET /617690826250049.htm HTTP/1.1" 200 None
+2017-08-22 22:29:12,939 成功插入13 条数据
+2017-08-22 22:29:13,614 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:13,638 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:13,747 http://jobs.zhaopin.com:80 "GET /504067681250003.htm HTTP/1.1" 200 None
+2017-08-22 22:29:13,753 http://jobs.zhaopin.com:80 "GET /601187124250303.htm HTTP/1.1" 200 None
+2017-08-22 22:29:13,826 成功插入14 条数据
+2017-08-22 22:29:13,840 成功插入14 条数据
+2017-08-22 22:29:13,913 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:14,026 http://jobs.zhaopin.com:80 "GET /152686913250613.htm HTTP/1.1" 200 None
+2017-08-22 22:29:14,076 成功插入15 条数据
+2017-08-22 22:29:14,761 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:14,771 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:14,865 http://jobs.zhaopin.com:80 "GET /688998424250273.htm HTTP/1.1" 200 None
+2017-08-22 22:29:14,894 成功插入16 条数据
+2017-08-22 22:29:14,910 http://jobs.zhaopin.com:80 "GET /606443825250158.htm HTTP/1.1" 200 None
+2017-08-22 22:29:14,985 成功插入8 条数据
+2017-08-22 22:29:15,039 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:15,169 http://jobs.zhaopin.com:80 "GET /247352918250096.htm HTTP/1.1" 200 None
+2017-08-22 22:29:15,204 成功插入9 条数据
+2017-08-22 22:29:15,873 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:15,921 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:16,141 http://jobs.zhaopin.com:80 "GET /495056821250352.htm HTTP/1.1" 200 None
+2017-08-22 22:29:16,178 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:16,183 http://jobs.zhaopin.com:80 "GET /495056821250614.htm HTTP/1.1" 200 None
+2017-08-22 22:29:16,237 成功插入17 条数据
+2017-08-22 22:29:16,276 成功插入15 条数据
+2017-08-22 22:29:16,414 http://jobs.zhaopin.com:80 "GET /592504522250427.htm HTTP/1.1" 200 None
+2017-08-22 22:29:16,493 成功插入16 条数据
+2017-08-22 22:29:17,213 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:17,214 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:17,410 http://jobs.zhaopin.com:80 "GET /495056821250368.htm HTTP/1.1" 200 None
+2017-08-22 22:29:17,438 成功插入17 条数据
+2017-08-22 22:29:17,482 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:17,627 http://jobs.zhaopin.com:80 "GET /495056821250363.htm HTTP/1.1" 200 None
+2017-08-22 22:29:17,666 http://jobs.zhaopin.com:80 "GET /245496187250043.htm HTTP/1.1" 200 None
+2017-08-22 22:29:17,668 成功插入10 条数据
+2017-08-22 22:29:17,737 成功插入18 条数据
+2017-08-22 22:29:18,421 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:18,582 http://jobs.zhaopin.com:80 "GET /495056821250433.htm HTTP/1.1" 200 None
+2017-08-22 22:29:18,635 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:18,641 成功插入18 条数据
+2017-08-22 22:29:18,715 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:18,761 http://jobs.zhaopin.com:80 "GET /495056821250432.htm HTTP/1.1" 200 None
+2017-08-22 22:29:18,806 成功插入19 条数据
+2017-08-22 22:29:18,849 http://jobs.zhaopin.com:80 "GET /227946016250259.htm HTTP/1.1" 200 None
+2017-08-22 22:29:18,932 成功插入11 条数据
+2017-08-22 22:29:19,589 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:19,740 http://jobs.zhaopin.com:80 "GET /404202580250066.htm HTTP/1.1" 200 None
+2017-08-22 22:29:19,772 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:19,799 成功插入12 条数据
+2017-08-22 22:29:19,906 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:20,003 http://jobs.zhaopin.com:80 "GET /534625027250042.htm HTTP/1.1" 200 None
+2017-08-22 22:29:20,024 http://jobs.zhaopin.com:80 "GET /CZ241617710J00007840104.htm HTTP/1.1" 200 None
+2017-08-22 22:29:20,052 成功插入19 条数据
+2017-08-22 22:29:20,071 成功插入20 条数据
+2017-08-22 22:29:20,783 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:20,904 http://jobs.zhaopin.com:80 "GET /550670723250074.htm HTTP/1.1" 200 None
+2017-08-22 22:29:20,937 成功插入21 条数据
+2017-08-22 22:29:21,033 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:21,056 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:21,154 http://jobs.zhaopin.com:80 "GET /618425328250084.htm HTTP/1.1" 200 None
+2017-08-22 22:29:21,174 http://jobs.zhaopin.com:80 "GET /307290780250200.htm HTTP/1.1" 200 None
+2017-08-22 22:29:21,177 成功插入20 条数据
+2017-08-22 22:29:21,198 成功插入22 条数据
+2017-08-22 22:29:21,913 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:22,039 http://jobs.zhaopin.com:80 "GET /585435125250230.htm HTTP/1.1" 200 None
+2017-08-22 22:29:22,141 成功插入21 条数据
+2017-08-22 22:29:22,163 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:22,186 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:22,332 http://jobs.zhaopin.com:80 "GET /236548783250077.htm HTTP/1.1" 200 None
+2017-08-22 22:29:22,350 http://jobs.zhaopin.com:80 "GET /000582305254858.htm HTTP/1.1" 200 None
+2017-08-22 22:29:22,384 成功插入23 条数据
+2017-08-22 22:29:22,398 成功插入22 条数据
+2017-08-22 22:29:23,102 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:23,198 http://jobs.zhaopin.com:80 "GET /453857580250185.htm HTTP/1.1" 200 None
+2017-08-22 22:29:23,283 成功插入23 条数据
+2017-08-22 22:29:23,370 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:23,380 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:23,475 http://jobs.zhaopin.com:80 "GET /571842520250079.htm HTTP/1.1" 200 None
+2017-08-22 22:29:23,499 http://jobs.zhaopin.com:80 "GET /517864083250009.htm HTTP/1.1" 200 None
+2017-08-22 22:29:23,539 成功插入13 条数据
+2017-08-22 22:29:23,588 成功插入24 条数据
+2017-08-22 22:29:24,251 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:24,511 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:24,519 http://jobs.zhaopin.com:80 "GET /291418981250055.htm HTTP/1.1" 200 None
+2017-08-22 22:29:24,534 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:24,560 成功插入14 条数据
+2017-08-22 22:29:24,639 http://jobs.zhaopin.com:80 "GET /667761224250218.htm HTTP/1.1" 200 None
+2017-08-22 22:29:24,674 成功插入24 条数据
+2017-08-22 22:29:25,076 http://jobs.zhaopin.com:80 "GET /568111929250078.htm HTTP/1.1" 200 None
+2017-08-22 22:29:25,122 成功插入15 条数据
+2017-08-22 22:29:25,533 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:25,653 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:25,656 http://jobs.zhaopin.com:80 "GET /389565738250020.htm HTTP/1.1" 200 None
+2017-08-22 22:29:25,698 成功插入16 条数据
+2017-08-22 22:29:25,775 http://jobs.zhaopin.com:80 "GET /218963286250224.htm HTTP/1.1" 200 None
+2017-08-22 22:29:25,823 成功插入17 条数据
+2017-08-22 22:29:26,089 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:26,227 http://jobs.zhaopin.com:80 "GET /315952115250391.htm HTTP/1.1" 200 None
+2017-08-22 22:29:26,297 成功插入25 条数据
+2017-08-22 22:29:26,663 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:26,772 http://jobs.zhaopin.com:80 "GET /474694486250033.htm HTTP/1.1" 200 None
+2017-08-22 22:29:26,781 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:26,802 成功插入18 条数据
+2017-08-22 22:29:26,894 http://jobs.zhaopin.com:80 "GET /236718633250111.htm HTTP/1.1" 200 None
+2017-08-22 22:29:26,913 成功插入26 条数据
+2017-08-22 22:29:27,284 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:27,401 http://jobs.zhaopin.com:80 "GET /651116924250102.htm HTTP/1.1" 200 None
+2017-08-22 22:29:27,781 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:27,901 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:27,975 http://jobs.zhaopin.com:80 "GET /315959618250233.htm HTTP/1.1" 200 None
+2017-08-22 22:29:28,027 http://jobs.zhaopin.com:80 "GET /381870114250071.htm HTTP/1.1" 200 None
+2017-08-22 22:29:28,040 成功插入27 条数据
+2017-08-22 22:29:28,056 成功插入19 条数据
+2017-08-22 22:29:28,451 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:28,575 http://jobs.zhaopin.com:80 "GET /397002033250018.htm HTTP/1.1" 200 None
+2017-08-22 22:29:28,652 成功插入28 条数据
+2017-08-22 22:29:29,028 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:29,034 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:29,129 http://jobs.zhaopin.com:80 "GET /440235030250029.htm HTTP/1.1" 200 None
+2017-08-22 22:29:29,157 http://jobs.zhaopin.com:80 "GET /483560821251474.htm HTTP/1.1" 200 None
+2017-08-22 22:29:29,182 成功插入25 条数据
+2017-08-22 22:29:29,194 成功插入29 条数据
+2017-08-22 22:29:29,637 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:29,739 http://jobs.zhaopin.com:80 "GET /508829620250354.htm HTTP/1.1" 200 None
+2017-08-22 22:29:29,834 成功插入20 条数据
+2017-08-22 22:29:30,164 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:30,178 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:30,279 http://jobs.zhaopin.com:80 "GET /150768314250201.htm HTTP/1.1" 200 None
+2017-08-22 22:29:30,296 http://jobs.zhaopin.com:80 "GET /120620276259911.htm HTTP/1.1" 200 None
+2017-08-22 22:29:30,300 成功插入26 条数据
+2017-08-22 22:29:30,338 成功插入30 条数据
+2017-08-22 22:29:30,795 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:30,981 http://jobs.zhaopin.com:80 "GET /656054021250031.htm HTTP/1.1" 200 None
+2017-08-22 22:29:31,066 成功插入31 条数据
+2017-08-22 22:29:31,285 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:31,306 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:31,396 http://jobs.zhaopin.com:80 "GET /646447128250071.htm HTTP/1.1" 200 None
+2017-08-22 22:29:31,422 http://jobs.zhaopin.com:80 "GET /624498121250238.htm HTTP/1.1" 200 None
+2017-08-22 22:29:31,453 成功插入21 条数据
+2017-08-22 22:29:31,458 成功插入27 条数据
+2017-08-22 22:29:32,047 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:32,158 http://jobs.zhaopin.com:80 "GET /385866133250044.htm HTTP/1.1" 200 None
+2017-08-22 22:29:32,220 成功插入32 条数据
+2017-08-22 22:29:32,406 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:32,434 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:32,531 http://jobs.zhaopin.com:80 "GET /236543237250098.htm HTTP/1.1" 200 None
+2017-08-22 22:29:32,547 http://jobs.zhaopin.com:80 "GET /383347936250054.htm HTTP/1.1" 200 None
+2017-08-22 22:29:32,556 成功插入28 条数据
+2017-08-22 22:29:32,652 成功插入29 条数据
+2017-08-22 22:29:33,206 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:33,316 http://jobs.zhaopin.com:80 "GET /399716617268667.htm HTTP/1.1" 200 None
+2017-08-22 22:29:33,416 成功插入33 条数据
+2017-08-22 22:29:33,540 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:33,602 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:33,655 http://jobs.zhaopin.com:80 "GET /399716617268687.htm HTTP/1.1" 200 None
+2017-08-22 22:29:33,687 成功插入22 条数据
+2017-08-22 22:29:33,732 http://jobs.zhaopin.com:80 "GET /301041831250085.htm HTTP/1.1" 200 None
+2017-08-22 22:29:33,788 成功插入30 条数据
+2017-08-22 22:29:34,370 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:34,465 http://jobs.zhaopin.com:80 "GET /536945632250017.htm HTTP/1.1" 200 None
+2017-08-22 22:29:34,527 成功插入34 条数据
+2017-08-22 22:29:34,662 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:34,741 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:34,796 http://jobs.zhaopin.com:80 "GET /318677585250022.htm HTTP/1.1" 200 None
+2017-08-22 22:29:34,838 成功插入23 条数据
+2017-08-22 22:29:35,278 http://jobs.zhaopin.com:80 "GET /410614613250621.htm HTTP/1.1" 200 None
+2017-08-22 22:29:35,298 成功插入24 条数据
+2017-08-22 22:29:35,513 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:35,616 http://jobs.zhaopin.com:80 "GET /299470919250294.htm HTTP/1.1" 200 None
+2017-08-22 22:29:35,783 成功插入31 条数据
+2017-08-22 22:29:35,813 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:36,038 http://jobs.zhaopin.com:80 "GET /387749637250009.htm HTTP/1.1" 200 None
+2017-08-22 22:29:36,086 成功插入32 条数据
+2017-08-22 22:29:36,284 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:36,526 http://jobs.zhaopin.com:80 "GET /287936911250135.htm HTTP/1.1" 200 None
+2017-08-22 22:29:36,569 成功插入33 条数据
+2017-08-22 22:29:36,766 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:36,911 http://jobs.zhaopin.com:80 "GET /227269436250186.htm HTTP/1.1" 200 None
+2017-08-22 22:29:37,049 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:37,174 http://jobs.zhaopin.com:80 "GET /138804812252632.htm HTTP/1.1" 200 None
+2017-08-22 22:29:37,194 成功插入34 条数据
+2017-08-22 22:29:37,277 成功插入25 条数据
+2017-08-22 22:29:37,546 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:37,669 http://jobs.zhaopin.com:80 "GET /240403889250029.htm HTTP/1.1" 200 None
+2017-08-22 22:29:37,753 成功插入26 条数据
+2017-08-22 22:29:37,961 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:38,069 http://jobs.zhaopin.com:80 "GET /485623931250020.htm HTTP/1.1" 200 None
+2017-08-22 22:29:38,093 成功插入27 条数据
+2017-08-22 22:29:38,268 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:38,386 http://jobs.zhaopin.com:80 "GET /413479081250091.htm HTTP/1.1" 200 None
+2017-08-22 22:29:38,458 成功插入35 条数据
+2017-08-22 22:29:38,729 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:38,857 http://jobs.zhaopin.com:80 "GET /450200038250034.htm HTTP/1.1" 200 None
+2017-08-22 22:29:38,913 成功插入35 条数据
+2017-08-22 22:29:39,075 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:39,183 http://jobs.zhaopin.com:80 "GET /296787788250119.htm HTTP/1.1" 200 None
+2017-08-22 22:29:39,209 成功插入28 条数据
+2017-08-22 22:29:39,444 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:39,567 http://jobs.zhaopin.com:80 "GET /677089020250282.htm HTTP/1.1" 200 None
+2017-08-22 22:29:39,738 成功插入36 条数据
+2017-08-22 22:29:39,877 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:40,077 http://jobs.zhaopin.com:80 "GET /694244521250324.htm HTTP/1.1" 200 None
+2017-08-22 22:29:40,098 成功插入37 条数据
+2017-08-22 22:29:40,194 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:40,337 http://jobs.zhaopin.com:80 "GET /409287531250127.htm HTTP/1.1" 200 None
+2017-08-22 22:29:40,406 成功插入38 条数据
+2017-08-22 22:29:40,636 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:41,083 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:41,122 http://jobs.zhaopin.com:80 "GET /417864288250003.htm HTTP/1.1" 200 None
+2017-08-22 22:29:41,180 成功插入36 条数据
+2017-08-22 22:29:41,221 http://jobs.zhaopin.com:80 "GET /145254585251333.htm HTTP/1.1" 200 None
+2017-08-22 22:29:41,243 成功插入39 条数据
+2017-08-22 22:29:41,393 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:41,737 http://jobs.zhaopin.com:80 "GET /592504522250411.htm HTTP/1.1" 200 None
+2017-08-22 22:29:41,757 成功插入40 条数据
+2017-08-22 22:29:42,168 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:42,229 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:42,337 http://jobs.zhaopin.com:80 "GET /239838216250015.htm HTTP/1.1" 200 None
+2017-08-22 22:29:42,359 成功插入29 条数据
+2017-08-22 22:29:42,423 http://jobs.zhaopin.com:80 "GET /273851689250030.htm HTTP/1.1" 200 None
+2017-08-22 22:29:42,485 成功插入41 条数据
+2017-08-22 22:29:42,745 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:42,871 http://jobs.zhaopin.com:80 "GET /372643138250006.htm HTTP/1.1" 200 None
+2017-08-22 22:29:42,935 成功插入42 条数据
+2017-08-22 22:29:43,348 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:43,449 http://jobs.zhaopin.com:80 "GET /688998424250254.htm HTTP/1.1" 200 None
+2017-08-22 22:29:43,471 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:43,592 http://jobs.zhaopin.com:80 "GET /384696581250206.htm HTTP/1.1" 200 None
+2017-08-22 22:29:43,632 成功插入37 条数据
+2017-08-22 22:29:43,647 成功插入43 条数据
+2017-08-22 22:29:43,922 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:44,040 http://jobs.zhaopin.com:80 "GET /447250588250079.htm HTTP/1.1" 200 None
+2017-08-22 22:29:44,140 成功插入44 条数据
+2017-08-22 22:29:44,601 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:44,628 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:44,727 http://jobs.zhaopin.com:80 "GET /426816882250010.htm HTTP/1.1" 200 None
+2017-08-22 22:29:44,746 http://jobs.zhaopin.com:80 "GET /685808920251412.htm HTTP/1.1" 200 None
+2017-08-22 22:29:44,760 成功插入30 条数据
+2017-08-22 22:29:44,777 成功插入45 条数据
+2017-08-22 22:29:45,107 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:45,250 http://jobs.zhaopin.com:80 "GET /254422138251910.htm HTTP/1.1" 200 None
+2017-08-22 22:29:45,284 成功插入38 条数据
+2017-08-22 22:29:45,734 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:45,757 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:45,865 http://jobs.zhaopin.com:80 "GET /203672985250283.htm HTTP/1.1" 200 None
+2017-08-22 22:29:45,867 http://jobs.zhaopin.com:80 "GET /254422138252025.htm HTTP/1.1" 200 None
+2017-08-22 22:29:45,886 成功插入31 条数据
+2017-08-22 22:29:45,932 成功插入32 条数据
+2017-08-22 22:29:46,257 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:46,874 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:46,881 http://jobs.zhaopin.com:80 "GET /CZ723349240J00015666405.htm HTTP/1.1" 200 None
+2017-08-22 22:29:46,928 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:47,045 http://jobs.zhaopin.com:80 "GET /628989229253332.htm HTTP/1.1" 200 None
+2017-08-22 22:29:47,079 成功插入46 条数据
+2017-08-22 22:29:47,106 成功插入33 条数据
+2017-08-22 22:29:47,211 http://jobs.zhaopin.com:80 "GET /523415384250020.htm HTTP/1.1" 200 None
+2017-08-22 22:29:47,245 成功插入39 条数据
+2017-08-22 22:29:48,057 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:48,067 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:48,219 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:48,220 http://jobs.zhaopin.com:80 "GET /120731354252534.htm HTTP/1.1" 200 None
+2017-08-22 22:29:48,235 http://jobs.zhaopin.com:80 "GET /599223521250470.htm HTTP/1.1" 200 None
+2017-08-22 22:29:48,256 成功插入34 条数据
+2017-08-22 22:29:48,373 成功插入40 条数据
+2017-08-22 22:29:48,445 http://jobs.zhaopin.com:80 "GET /CZ723351840J00060579901.htm HTTP/1.1" 200 None
+2017-08-22 22:29:48,490 成功插入41 条数据
+2017-08-22 22:29:49,232 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:49,337 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:49,451 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:49,697 http://jobs.zhaopin.com:80 "GET /334763188250055.htm HTTP/1.1" 200 None
+2017-08-22 22:29:49,703 http://jobs.zhaopin.com:80 "GET /397569336250049.htm HTTP/1.1" 200 None
+2017-08-22 22:29:49,710 http://jobs.zhaopin.com:80 "GET /399185132250075.htm HTTP/1.1" 200 None
+2017-08-22 22:29:49,745 成功插入35 条数据
+2017-08-22 22:29:49,785 成功插入47 条数据
+2017-08-22 22:29:49,810 成功插入36 条数据
+2017-08-22 22:29:50,713 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:50,757 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:50,767 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:50,885 http://jobs.zhaopin.com:80 "GET /481517089250064.htm HTTP/1.1" 200 None
+2017-08-22 22:29:50,974 http://jobs.zhaopin.com:80 "GET /CZ751928390J00010414808.htm HTTP/1.1" 200 None
+2017-08-22 22:29:50,985 成功插入42 条数据
+2017-08-22 22:29:50,986 http://jobs.zhaopin.com:80 "GET /CZ718806740J00020974503.htm HTTP/1.1" 200 None
+2017-08-22 22:29:51,004 成功插入37 条数据
+2017-08-22 22:29:51,029 成功插入48 条数据
+2017-08-22 22:29:51,965 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:51,983 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:51,995 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:52,107 http://jobs.zhaopin.com:80 "GET /203296135250742.htm HTTP/1.1" 200 None
+2017-08-22 22:29:52,134 成功插入38 条数据
+2017-08-22 22:29:52,148 http://jobs.zhaopin.com:80 "GET /504580727250171.htm HTTP/1.1" 200 None
+2017-08-22 22:29:52,173 成功插入43 条数据
+2017-08-22 22:29:52,351 http://jobs.zhaopin.com:80 "GET /419737638250025.htm HTTP/1.1" 200 None
+2017-08-22 22:29:52,413 成功插入49 条数据
+2017-08-22 22:29:53,115 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:53,157 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:53,227 http://jobs.zhaopin.com:80 "GET /594534822250121.htm HTTP/1.1" 200 None
+2017-08-22 22:29:53,249 成功插入50 条数据
+2017-08-22 22:29:53,264 http://jobs.zhaopin.com:80 "GET /526905381250038.htm HTTP/1.1" 200 None
+2017-08-22 22:29:53,291 成功插入39 条数据
+2017-08-22 22:29:53,365 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:53,491 http://jobs.zhaopin.com:80 "GET /132889205250265.htm HTTP/1.1" 200 None
+2017-08-22 22:29:53,515 成功插入40 条数据
+2017-08-22 22:29:54,235 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:54,274 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:54,360 http://jobs.zhaopin.com:80 "GET /676157721250014.htm HTTP/1.1" 200 None
+2017-08-22 22:29:54,383 成功插入44 条数据
+2017-08-22 22:29:54,390 http://jobs.zhaopin.com:80 "GET /553175925250024.htm HTTP/1.1" 200 None
+2017-08-22 22:29:54,413 成功插入51 条数据
+2017-08-22 22:29:54,501 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:54,753 http://jobs.zhaopin.com:80 "GET /CZ718587840J00057977601.htm HTTP/1.1" 200 None
+2017-08-22 22:29:54,783 成功插入52 条数据
+2017-08-22 22:29:55,367 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:55,399 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:55,662 http://jobs.zhaopin.com:80 "GET /391375314250154.htm HTTP/1.1" 200 None
+2017-08-22 22:29:55,691 成功插入45 条数据
+2017-08-22 22:29:55,767 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:55,848 http://jobs.zhaopin.com:80 "GET /CZ718587840J00058029001.htm HTTP/1.1" 200 None
+2017-08-22 22:29:55,914 成功插入41 条数据
+2017-08-22 22:29:55,987 http://jobs.zhaopin.com:80 "GET /CZ718587840J00055571401.htm HTTP/1.1" 200 None
+2017-08-22 22:29:56,066 成功插入46 条数据
+2017-08-22 22:29:56,669 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:56,808 http://jobs.zhaopin.com:80 "GET /227000780250273.htm HTTP/1.1" 200 None
+2017-08-22 22:29:56,833 成功插入53 条数据
+2017-08-22 22:29:56,858 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:56,999 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:57,006 http://jobs.zhaopin.com:80 "GET /397007835250014.htm HTTP/1.1" 200 None
+2017-08-22 22:29:57,034 成功插入54 条数据
+2017-08-22 22:29:57,121 http://jobs.zhaopin.com:80 "GET /410344812250044.htm HTTP/1.1" 200 None
+2017-08-22 22:29:57,152 成功插入47 条数据
+2017-08-22 22:29:57,814 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:58,016 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:58,059 http://jobs.zhaopin.com:80 "GET /397127883250156.htm HTTP/1.1" 200 None
+2017-08-22 22:29:58,083 成功插入55 条数据
+2017-08-22 22:29:58,134 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:58,230 http://jobs.zhaopin.com:80 "GET /656807123250011.htm HTTP/1.1" 200 None
+2017-08-22 22:29:58,370 成功插入42 条数据
+2017-08-22 22:29:58,523 http://jobs.zhaopin.com:80 "GET /441921682250103.htm HTTP/1.1" 200 None
+2017-08-22 22:29:58,548 成功插入56 条数据
+2017-08-22 22:29:59,066 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:59,208 http://jobs.zhaopin.com:80 "GET /145584244250683.htm HTTP/1.1" 200 None
+2017-08-22 22:29:59,296 成功插入43 条数据
+2017-08-22 22:29:59,364 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:59,532 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:29:59,534 http://jobs.zhaopin.com:80 "GET /268941436250186.htm HTTP/1.1" 200 None
+2017-08-22 22:29:59,629 http://jobs.zhaopin.com:80 "GET /469217519254449.htm HTTP/1.1" 200 None
+2017-08-22 22:29:59,688 成功插入44 条数据
+2017-08-22 22:29:59,839 成功插入57 条数据
+2017-08-22 22:30:00,266 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:00,419 http://jobs.zhaopin.com:80 "GET /396459825255210.htm HTTP/1.1" 200 None
+2017-08-22 22:30:00,439 成功插入48 条数据
+2017-08-22 22:30:00,641 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:00,728 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:00,795 http://jobs.zhaopin.com:80 "GET /305364831250040.htm HTTP/1.1" 200 None
+2017-08-22 22:30:00,850 成功插入45 条数据
+2017-08-22 22:30:00,916 http://jobs.zhaopin.com:80 "GET /519268337250000.htm HTTP/1.1" 200 None
+2017-08-22 22:30:00,936 成功插入58 条数据
+2017-08-22 22:30:01,427 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:01,574 http://jobs.zhaopin.com:80 "GET /518851220250299.htm HTTP/1.1" 200 None
+2017-08-22 22:30:01,652 成功插入59 条数据
+2017-08-22 22:30:01,837 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:01,925 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:01,954 http://jobs.zhaopin.com:80 "GET /194392311250058.htm HTTP/1.1" 200 None
+2017-08-22 22:30:01,976 成功插入60 条数据
+2017-08-22 22:30:02,028 http://jobs.zhaopin.com:80 "GET /526905381250020.htm HTTP/1.1" 200 None
+2017-08-22 22:30:02,050 成功插入61 条数据
+2017-08-22 22:30:02,584 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:02,737 http://jobs.zhaopin.com:80 "GET /389017732250070.htm HTTP/1.1" 200 None
+2017-08-22 22:30:02,759 成功插入49 条数据
+2017-08-22 22:30:02,965 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:03,035 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:03,119 http://jobs.zhaopin.com:80 "GET /401850481250014.htm HTTP/1.1" 200 None
+2017-08-22 22:30:03,144 http://jobs.zhaopin.com:80 "GET /488606034250034.htm HTTP/1.1" 200 None
+2017-08-22 22:30:03,163 成功插入46 条数据
+2017-08-22 22:30:03,339 成功插入47 条数据
+2017-08-22 22:30:03,743 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:03,887 http://jobs.zhaopin.com:80 "GET /467320686250041.htm HTTP/1.1" 200 None
+2017-08-22 22:30:03,958 成功插入48 条数据
+2017-08-22 22:30:04,149 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:04,261 http://jobs.zhaopin.com:80 "GET /302728718250094.htm HTTP/1.1" 200 None
+2017-08-22 22:30:04,291 成功插入50 条数据
+2017-08-22 22:30:04,302 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:04,431 http://jobs.zhaopin.com:80 "GET /394414336250003.htm HTTP/1.1" 200 None
+2017-08-22 22:30:04,464 成功插入49 条数据
+2017-08-22 22:30:04,943 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:05,045 http://jobs.zhaopin.com:80 "GET /279520787250048.htm HTTP/1.1" 200 None
+2017-08-22 22:30:05,270 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:05,418 http://jobs.zhaopin.com:80 "GET /465458087250002.htm HTTP/1.1" 200 None
+2017-08-22 22:30:05,441 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:05,462 成功插入62 条数据
+2017-08-22 22:30:05,529 http://jobs.zhaopin.com:80 "GET /460052430250065.htm HTTP/1.1" 200 None
+2017-08-22 22:30:05,589 成功插入50 条数据
+2017-08-22 22:30:06,052 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:06,185 http://jobs.zhaopin.com:80 "GET /558936322250014.htm HTTP/1.1" 200 None
+2017-08-22 22:30:06,269 成功插入51 条数据
+2017-08-22 22:30:06,430 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:06,576 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:06,577 http://jobs.zhaopin.com:80 "GET /157355312250153.htm HTTP/1.1" 200 None
+2017-08-22 22:30:06,612 成功插入52 条数据
+2017-08-22 22:30:06,663 http://jobs.zhaopin.com:80 "GET /497903130250018.htm HTTP/1.1" 200 None
+2017-08-22 22:30:06,771 成功插入51 条数据
+2017-08-22 22:30:07,208 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:07,318 http://jobs.zhaopin.com:80 "GET /203296135250696.htm HTTP/1.1" 200 None
+2017-08-22 22:30:07,345 成功插入63 条数据
+2017-08-22 22:30:07,592 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:07,717 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:07,757 http://jobs.zhaopin.com:80 "GET /481517089250052.htm HTTP/1.1" 200 None
+2017-08-22 22:30:07,831 成功插入53 条数据
+2017-08-22 22:30:08,156 http://jobs.zhaopin.com:80 "GET /656804727250045.htm HTTP/1.1" 200 None
+2017-08-22 22:30:08,178 成功插入54 条数据
+2017-08-22 22:30:08,327 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:08,514 http://jobs.zhaopin.com:80 "GET /273206080250193.htm HTTP/1.1" 200 None
+2017-08-22 22:30:08,554 成功插入64 条数据
+2017-08-22 22:30:08,775 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:09,077 http://jobs.zhaopin.com:80 "GET /518896783250000.htm HTTP/1.1" 200 None
+2017-08-22 22:30:09,114 成功插入55 条数据
+2017-08-22 22:30:09,164 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:09,507 http://jobs.zhaopin.com:80 "GET /518896783250012.htm HTTP/1.1" 200 None
+2017-08-22 22:30:09,531 成功插入65 条数据
+2017-08-22 22:30:09,543 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:09,775 http://jobs.zhaopin.com:80 "GET /409649283250005.htm HTTP/1.1" 200 None
+2017-08-22 22:30:09,807 成功插入52 条数据
+2017-08-22 22:30:10,092 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:10,357 http://jobs.zhaopin.com:80 "GET /423734086250058.htm HTTP/1.1" 200 None
+2017-08-22 22:30:10,384 成功插入66 条数据
+2017-08-22 22:30:10,516 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:10,636 http://jobs.zhaopin.com:80 "GET /191251711250152.htm HTTP/1.1" 200 None
+2017-08-22 22:30:10,671 成功插入67 条数据
+2017-08-22 22:30:10,785 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:10,918 http://jobs.zhaopin.com:80 "GET /394509535250048.htm HTTP/1.1" 200 None
+2017-08-22 22:30:10,953 成功插入68 条数据
+2017-08-22 22:30:11,365 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:11,481 http://jobs.zhaopin.com:80 "GET /254521389250038.htm HTTP/1.1" 200 None
+2017-08-22 22:30:11,512 成功插入69 条数据
+2017-08-22 22:30:11,642 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:11,933 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:11,992 http://jobs.zhaopin.com:80 "GET /262943531250041.htm HTTP/1.1" 200 None
+2017-08-22 22:30:12,065 成功插入53 条数据
+2017-08-22 22:30:12,111 http://jobs.zhaopin.com:80 "GET /475419724250528.htm HTTP/1.1" 200 None
+2017-08-22 22:30:12,149 成功插入54 条数据
+2017-08-22 22:30:12,499 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:12,627 http://jobs.zhaopin.com:80 "GET /475419724250528.htm HTTP/1.1" 200 None
+2017-08-22 22:30:12,666 成功插入56 条数据
+2017-08-22 22:30:13,041 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:13,129 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:13,195 http://jobs.zhaopin.com:80 "GET /161949916250383.htm HTTP/1.1" 200 None
+2017-08-22 22:30:13,215 成功插入55 条数据
+2017-08-22 22:30:13,264 http://jobs.zhaopin.com:80 "GET /563797328250527.htm HTTP/1.1" 200 None
+2017-08-22 22:30:13,286 成功插入70 条数据
+2017-08-22 22:30:13,646 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:13,763 http://jobs.zhaopin.com:80 "GET /613559228250041.htm HTTP/1.1" 200 None
+2017-08-22 22:30:13,873 成功插入71 条数据
+2017-08-22 22:30:14,205 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:14,275 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:14,326 http://jobs.zhaopin.com:80 "GET /380301984250058.htm HTTP/1.1" 200 None
+2017-08-22 22:30:14,349 成功插入56 条数据
+2017-08-22 22:30:14,399 http://jobs.zhaopin.com:80 "GET /203304234250164.htm HTTP/1.1" 200 None
+2017-08-22 22:30:14,420 成功插入57 条数据
+2017-08-22 22:30:14,863 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:15,128 http://jobs.zhaopin.com:80 "GET /473390084250105.htm HTTP/1.1" 200 None
+2017-08-22 22:30:15,226 成功插入72 条数据
+2017-08-22 22:30:15,335 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:15,408 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:15,465 http://jobs.zhaopin.com:80 "GET /135078082344347.htm HTTP/1.1" 200 None
+2017-08-22 22:30:15,535 http://jobs.zhaopin.com:80 "GET /131083318260832.htm HTTP/1.1" 200 None
+2017-08-22 22:30:15,562 成功插入73 条数据
+2017-08-22 22:30:16,152 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:16,315 http://jobs.zhaopin.com:80 "GET /302799889250026.htm HTTP/1.1" 200 None
+2017-08-22 22:30:16,401 成功插入57 条数据
+2017-08-22 22:30:16,475 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:16,543 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:16,646 http://jobs.zhaopin.com:80 "GET /120678891250321.htm HTTP/1.1" 200 None
+2017-08-22 22:30:16,705 http://jobs.zhaopin.com:80 "GET /360556783250001.htm HTTP/1.1" 200 None
+2017-08-22 22:30:16,743 成功插入58 条数据
+2017-08-22 22:30:16,937 成功插入74 条数据
+2017-08-22 22:30:17,332 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:17,480 http://jobs.zhaopin.com:80 "GET /557835620250311.htm HTTP/1.1" 200 None
+2017-08-22 22:30:17,501 成功插入75 条数据
+2017-08-22 22:30:17,719 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:17,862 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:17,877 http://jobs.zhaopin.com:80 "GET /587620128252421.htm HTTP/1.1" 200 None
+2017-08-22 22:30:17,943 成功插入59 条数据
+2017-08-22 22:30:18,136 http://jobs.zhaopin.com:80 "GET /147087802251062.htm HTTP/1.1" 200 None
+2017-08-22 22:30:18,230 成功插入58 条数据
+2017-08-22 22:30:18,485 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:18,597 http://jobs.zhaopin.com:80 "GET /626952920250341.htm HTTP/1.1" 200 None
+2017-08-22 22:30:18,686 成功插入59 条数据
+2017-08-22 22:30:18,890 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:19,021 http://jobs.zhaopin.com:80 "GET /318589887250172.htm HTTP/1.1" 200 None
+2017-08-22 22:30:19,124 成功插入60 条数据
+2017-08-22 22:30:19,220 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:19,382 http://jobs.zhaopin.com:80 "GET /290508933250153.htm HTTP/1.1" 200 None
+2017-08-22 22:30:19,425 成功插入61 条数据
+2017-08-22 22:30:19,672 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:19,813 http://jobs.zhaopin.com:80 "GET /384930689250011.htm HTTP/1.1" 200 None
+2017-08-22 22:30:19,890 成功插入62 条数据
+2017-08-22 22:30:20,092 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:20,280 http://jobs.zhaopin.com:80 "GET /480910889250005.htm HTTP/1.1" 200 None
+2017-08-22 22:30:20,306 成功插入60 条数据
+2017-08-22 22:30:20,392 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:20,632 http://jobs.zhaopin.com:80 "GET /456624733250005.htm HTTP/1.1" 200 None
+2017-08-22 22:30:20,662 成功插入61 条数据
+2017-08-22 22:30:20,830 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:21,056 http://jobs.zhaopin.com:80 "GET /409287531250013.htm HTTP/1.1" 200 None
+2017-08-22 22:30:21,096 成功插入63 条数据
+2017-08-22 22:30:21,289 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:21,516 http://jobs.zhaopin.com:80 "GET /146793514250012.htm HTTP/1.1" 200 None
+2017-08-22 22:30:21,546 成功插入76 条数据
+2017-08-22 22:30:21,642 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:21,763 http://jobs.zhaopin.com:80 "GET /274328813251212.htm HTTP/1.1" 200 None
+2017-08-22 22:30:21,882 成功插入77 条数据
+2017-08-22 22:30:22,062 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:22,194 http://jobs.zhaopin.com:80 "GET /486080033250059.htm HTTP/1.1" 200 None
+2017-08-22 22:30:22,218 成功插入78 条数据
+2017-08-22 22:30:22,523 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:22,639 http://jobs.zhaopin.com:80 "GET /289072581250069.htm HTTP/1.1" 200 None
+2017-08-22 22:30:22,684 成功插入79 条数据
+2017-08-22 22:30:22,773 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:22,915 http://jobs.zhaopin.com:80 "GET /550565229250140.htm HTTP/1.1" 200 None
+2017-08-22 22:30:22,942 成功插入80 条数据
+2017-08-22 22:30:23,205 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:23,302 http://jobs.zhaopin.com:80 "GET /384686080250003.htm HTTP/1.1" 200 None
+2017-08-22 22:30:23,407 成功插入64 条数据
+2017-08-22 22:30:23,648 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:23,795 http://jobs.zhaopin.com:80 "GET /702826326250258.htm HTTP/1.1" 200 None
+2017-08-22 22:30:23,866 成功插入65 条数据
+2017-08-22 22:30:23,929 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:24,036 http://jobs.zhaopin.com:80 "GET /311576211250108.htm HTTP/1.1" 200 None
+2017-08-22 22:30:24,073 成功插入81 条数据
+2017-08-22 22:30:24,335 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:24,454 http://jobs.zhaopin.com:80 "GET /133037278256591.htm HTTP/1.1" 200 None
+2017-08-22 22:30:24,474 成功插入82 条数据
+2017-08-22 22:30:24,853 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:25,045 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:25,171 http://jobs.zhaopin.com:80 "GET /CZ740438340J00062852901.htm HTTP/1.1" 200 None
+2017-08-22 22:30:25,193 成功插入83 条数据
+2017-08-22 22:30:25,253 http://jobs.zhaopin.com:80 "GET /294787282250046.htm HTTP/1.1" 200 None
+2017-08-22 22:30:25,275 成功插入66 条数据
+2017-08-22 22:30:25,463 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:25,572 http://jobs.zhaopin.com:80 "GET /399716617268686.htm HTTP/1.1" 200 None
+2017-08-22 22:30:25,608 成功插入67 条数据
+2017-08-22 22:30:26,181 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:26,260 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:26,328 http://jobs.zhaopin.com:80 "GET /704033126250908.htm HTTP/1.1" 200 None
+2017-08-22 22:30:26,379 http://jobs.zhaopin.com:80 "GET /120619558252211.htm HTTP/1.1" 200 None
+2017-08-22 22:30:26,422 成功插入68 条数据
+2017-08-22 22:30:26,531 成功插入62 条数据
+2017-08-22 22:30:26,578 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:26,698 http://jobs.zhaopin.com:80 "GET /370584138250002.htm HTTP/1.1" 200 None
+2017-08-22 22:30:26,744 成功插入69 条数据
+2017-08-22 22:30:27,342 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:27,428 http://jobs.zhaopin.com:80 "GET /120072290290375.htm HTTP/1.1" 200 None
+2017-08-22 22:30:27,442 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:27,547 http://jobs.zhaopin.com:80 "GET /120143601268218.htm HTTP/1.1" 200 None
+2017-08-22 22:30:27,567 成功插入63 条数据
+2017-08-22 22:30:27,710 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:27,949 http://jobs.zhaopin.com:80 "GET /120072290290273.htm HTTP/1.1" 200 None
+2017-08-22 22:30:28,474 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:28,556 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:28,657 http://jobs.zhaopin.com:80 "GET /120072290290042.htm HTTP/1.1" 200 None
+2017-08-22 22:30:28,687 成功插入64 条数据
+2017-08-22 22:30:28,757 http://jobs.zhaopin.com:80 "GET /120072290290051.htm HTTP/1.1" 200 None
+2017-08-22 22:30:28,959 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:29,163 http://jobs.zhaopin.com:80 "GET /135999435263374.htm HTTP/1.1" 200 None
+2017-08-22 22:30:29,315 成功插入84 条数据
+2017-08-22 22:30:29,667 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:29,824 http://jobs.zhaopin.com:80 "GET /120072290289696.htm HTTP/1.1" 200 None
+2017-08-22 22:30:29,825 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:29,892 成功插入85 条数据
+2017-08-22 22:30:29,909 http://jobs.zhaopin.com:80 "GET /120072290289160.htm HTTP/1.1" 200 None
+2017-08-22 22:30:30,033 成功插入65 条数据
+2017-08-22 22:30:30,245 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:30,376 http://jobs.zhaopin.com:80 "GET /120072290289145.htm HTTP/1.1" 200 None
+2017-08-22 22:30:30,403 成功插入70 条数据
+2017-08-22 22:30:30,835 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:30,928 http://jobs.zhaopin.com:80 "GET /120072290288819.htm HTTP/1.1" 200 None
+2017-08-22 22:30:30,953 成功插入86 条数据
+2017-08-22 22:30:30,959 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:31,064 http://jobs.zhaopin.com:80 "GET /120072290288743.htm HTTP/1.1" 200 None
+2017-08-22 22:30:31,131 成功插入66 条数据
+2017-08-22 22:30:31,385 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:31,759 http://jobs.zhaopin.com:80 "GET /120072290288640.htm HTTP/1.1" 200 None
+2017-08-22 22:30:31,785 成功插入67 条数据
+2017-08-22 22:30:31,938 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:32,112 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:32,207 http://jobs.zhaopin.com:80 "GET /120072290288141.htm HTTP/1.1" 200 None
+2017-08-22 22:30:32,241 成功插入87 条数据
+2017-08-22 22:30:32,500 http://jobs.zhaopin.com:80 "GET /120143601283608.htm HTTP/1.1" 200 None
+2017-08-22 22:30:32,528 成功插入88 条数据
+2017-08-22 22:30:32,770 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:32,889 http://jobs.zhaopin.com:80 "GET /424188188250749.htm HTTP/1.1" 200 None
+2017-08-22 22:30:32,956 成功插入68 条数据
+2017-08-22 22:30:33,218 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:33,327 http://jobs.zhaopin.com:80 "GET /499259720250952.htm HTTP/1.1" 200 None
+2017-08-22 22:30:33,402 成功插入69 条数据
+2017-08-22 22:30:33,510 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:33,605 http://jobs.zhaopin.com:80 "GET /304068014256534.htm HTTP/1.1" 200 None
+2017-08-22 22:30:33,695 成功插入70 条数据
+2017-08-22 22:30:33,943 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:34,069 http://jobs.zhaopin.com:80 "GET /000558696266748.htm HTTP/1.1" 200 None
+2017-08-22 22:30:34,140 成功插入71 条数据
+2017-08-22 22:30:34,387 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:34,496 http://jobs.zhaopin.com:80 "GET /659152823250019.htm HTTP/1.1" 200 None
+2017-08-22 22:30:34,565 成功插入72 条数据
+2017-08-22 22:30:34,667 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:34,782 http://jobs.zhaopin.com:80 "GET /514839432255980.htm HTTP/1.1" 200 None
+2017-08-22 22:30:34,850 成功插入71 条数据
+2017-08-22 22:30:35,125 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:35,257 http://jobs.zhaopin.com:80 "GET /469928580250127.htm HTTP/1.1" 200 None
+2017-08-22 22:30:35,350 成功插入89 条数据
+2017-08-22 22:30:35,553 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:35,710 http://jobs.zhaopin.com:80 "GET /495056821250507.htm HTTP/1.1" 200 None
+2017-08-22 22:30:35,747 成功插入72 条数据
+2017-08-22 22:30:35,836 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:35,951 http://jobs.zhaopin.com:80 "GET /495056821250358.htm HTTP/1.1" 200 None
+2017-08-22 22:30:35,993 成功插入73 条数据
+2017-08-22 22:30:36,309 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:36,639 http://jobs.zhaopin.com:80 "GET /523306980250030.htm HTTP/1.1" 200 None
+2017-08-22 22:30:36,720 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:36,731 成功插入90 条数据
+2017-08-22 22:30:36,857 http://jobs.zhaopin.com:80 "GET /372414483250041.htm HTTP/1.1" 200 None
+2017-08-22 22:30:36,939 成功插入73 条数据
+2017-08-22 22:30:36,963 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:37,142 http://jobs.zhaopin.com:80 "GET /132962994253866.htm HTTP/1.1" 200 None
+2017-08-22 22:30:37,226 成功插入74 条数据
+2017-08-22 22:30:37,695 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:37,823 http://jobs.zhaopin.com:80 "GET /137261580250884.htm HTTP/1.1" 200 None
+2017-08-22 22:30:37,864 成功插入91 条数据
+2017-08-22 22:30:37,920 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:38,209 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:38,301 http://jobs.zhaopin.com:80 "GET /490321039250049.htm HTTP/1.1" 200 None
+2017-08-22 22:30:38,303 http://jobs.zhaopin.com:80 "GET /245496187250034.htm HTTP/1.1" 200 None
+2017-08-22 22:30:38,326 成功插入92 条数据
+2017-08-22 22:30:38,338 成功插入74 条数据
+2017-08-22 22:30:38,830 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:38,914 http://jobs.zhaopin.com:80 "GET /521225339250139.htm HTTP/1.1" 200 None
+2017-08-22 22:30:38,982 成功插入93 条数据
+2017-08-22 22:30:39,310 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:39,311 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:39,402 http://jobs.zhaopin.com:80 "GET /327602636250028.htm HTTP/1.1" 200 None
+2017-08-22 22:30:39,409 http://jobs.zhaopin.com:80 "GET /535117221250327.htm HTTP/1.1" 200 None
+2017-08-22 22:30:39,445 成功插入75 条数据
+2017-08-22 22:30:39,490 成功插入75 条数据
+2017-08-22 22:30:39,966 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:40,117 http://jobs.zhaopin.com:80 "GET /687897222250143.htm HTTP/1.1" 200 None
+2017-08-22 22:30:40,141 成功插入76 条数据
+2017-08-22 22:30:40,415 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:40,459 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:40,540 http://jobs.zhaopin.com:80 "GET /138235354251717.htm HTTP/1.1" 200 None
+2017-08-22 22:30:40,569 成功插入94 条数据
+2017-08-22 22:30:40,620 http://jobs.zhaopin.com:80 "GET /338348782250024.htm HTTP/1.1" 200 None
+2017-08-22 22:30:40,689 成功插入95 条数据
+2017-08-22 22:30:41,127 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:41,238 http://jobs.zhaopin.com:80 "GET /382045436250003.htm HTTP/1.1" 200 None
+2017-08-22 22:30:41,262 成功插入96 条数据
+2017-08-22 22:30:41,548 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:41,628 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:41,677 http://jobs.zhaopin.com:80 "GET /240011518256805.htm HTTP/1.1" 200 None
+2017-08-22 22:30:41,728 http://jobs.zhaopin.com:80 "GET /619649526250536.htm HTTP/1.1" 200 None
+2017-08-22 22:30:41,753 成功插入97 条数据
+2017-08-22 22:30:41,774 成功插入77 条数据
+2017-08-22 22:30:42,246 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:42,497 http://jobs.zhaopin.com:80 "GET /607223127250953.htm HTTP/1.1" 200 None
+2017-08-22 22:30:42,532 成功插入78 条数据
+2017-08-22 22:30:42,734 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:42,741 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:43,038 http://jobs.zhaopin.com:80 "GET /27756098290250009000.htm HTTP/1.1" 200 None
+2017-08-22 22:30:43,040 http://jobs.zhaopin.com:80 "GET /691204625250029.htm HTTP/1.1" 200 None
+2017-08-22 22:30:43,064 成功插入98 条数据
+2017-08-22 22:30:43,094 成功插入76 条数据
+2017-08-22 22:30:43,522 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:43,649 http://jobs.zhaopin.com:80 "GET /188409216250310.htm HTTP/1.1" 200 None
+2017-08-22 22:30:43,688 成功插入77 条数据
+2017-08-22 22:30:44,048 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:44,078 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:44,139 http://jobs.zhaopin.com:80 "GET /267120282250069.htm HTTP/1.1" 200 None
+2017-08-22 22:30:44,176 成功插入79 条数据
+2017-08-22 22:30:44,198 http://jobs.zhaopin.com:80 "GET /240011518256799.htm HTTP/1.1" 200 None
+2017-08-22 22:30:44,342 成功插入80 条数据
+2017-08-22 22:30:44,659 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:44,776 http://jobs.zhaopin.com:80 "GET /227321082250110.htm HTTP/1.1" 200 None
+2017-08-22 22:30:44,841 成功插入81 条数据
+2017-08-22 22:30:45,146 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:45,247 http://jobs.zhaopin.com:80 "GET /272529818251701.htm HTTP/1.1" 200 None
+2017-08-22 22:30:45,266 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:45,359 http://jobs.zhaopin.com:80 "GET /154357126250821.htm HTTP/1.1" 200 None
+2017-08-22 22:30:45,521 成功插入78 条数据
+2017-08-22 22:30:45,588 成功插入79 条数据
+2017-08-22 22:30:45,783 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:45,957 http://jobs.zhaopin.com:80 "GET /536945632250007.htm HTTP/1.1" 200 None
+2017-08-22 22:30:46,035 成功插入80 条数据
+2017-08-22 22:30:46,409 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:46,523 http://jobs.zhaopin.com:80 "GET /569446727250123.htm HTTP/1.1" 200 None
+2017-08-22 22:30:46,534 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:46,557 成功插入81 条数据
+2017-08-22 22:30:46,635 http://jobs.zhaopin.com:80 "GET /241559789250518.htm HTTP/1.1" 200 None
+2017-08-22 22:30:46,664 成功插入82 条数据
+2017-08-22 22:30:47,015 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:47,131 http://jobs.zhaopin.com:80 "GET /312087332250024.htm HTTP/1.1" 200 None
+2017-08-22 22:30:47,153 成功插入82 条数据
+2017-08-22 22:30:47,531 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:47,622 http://jobs.zhaopin.com:80 "GET /138804812252680.htm HTTP/1.1" 200 None
+2017-08-22 22:30:47,649 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:47,685 成功插入83 条数据
+2017-08-22 22:30:47,754 http://jobs.zhaopin.com:80 "GET /599223521250479.htm HTTP/1.1" 200 None
+2017-08-22 22:30:47,776 成功插入84 条数据
+2017-08-22 22:30:48,138 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:48,258 http://jobs.zhaopin.com:80 "GET /136385323251460.htm HTTP/1.1" 200 None
+2017-08-22 22:30:48,287 成功插入85 条数据
+2017-08-22 22:30:48,668 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:48,759 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:48,790 http://jobs.zhaopin.com:80 "GET /698950229250793.htm HTTP/1.1" 200 None
+2017-08-22 22:30:48,845 成功插入83 条数据
+2017-08-22 22:30:48,878 http://jobs.zhaopin.com:80 "GET /526544628250025.htm HTTP/1.1" 200 None
+2017-08-22 22:30:48,972 成功插入86 条数据
+2017-08-22 22:30:49,263 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:49,399 http://jobs.zhaopin.com:80 "GET /691022029250031.htm HTTP/1.1" 200 None
+2017-08-22 22:30:49,498 成功插入99 条数据
+2017-08-22 22:30:49,800 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:49,884 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:49,988 http://jobs.zhaopin.com:80 "GET /493577688250010.htm HTTP/1.1" 200 None
+2017-08-22 22:30:50,008 成功插入87 条数据
+2017-08-22 22:30:50,020 http://jobs.zhaopin.com:80 "GET /CZ728340740J00020502403.htm HTTP/1.1" 200 None
+2017-08-22 22:30:50,042 成功插入100 条数据
+2017-08-22 22:30:50,433 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:50,562 http://jobs.zhaopin.com:80 "GET /143806558250254.htm HTTP/1.1" 200 None
+2017-08-22 22:30:50,604 成功插入101 条数据
+2017-08-22 22:30:50,995 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:51,030 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:51,101 http://jobs.zhaopin.com:80 "GET /359356318250110.htm HTTP/1.1" 200 None
+2017-08-22 22:30:51,115 http://jobs.zhaopin.com:80 "GET /516926427250019.htm HTTP/1.1" 200 None
+2017-08-22 22:30:51,179 成功插入88 条数据
+2017-08-22 22:30:51,206 成功插入102 条数据
+2017-08-22 22:30:51,579 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:51,715 http://jobs.zhaopin.com:80 "GET /424383118250381.htm HTTP/1.1" 200 None
+2017-08-22 22:30:51,764 成功插入84 条数据
+2017-08-22 22:30:52,167 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:52,193 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:52,318 http://jobs.zhaopin.com:80 "GET /288506417250229.htm HTTP/1.1" 200 None
+2017-08-22 22:30:52,319 http://jobs.zhaopin.com:80 "GET /523306980250029.htm HTTP/1.1" 200 None
+2017-08-22 22:30:52,369 成功插入103 条数据
+2017-08-22 22:30:52,381 成功插入89 条数据
+2017-08-22 22:30:52,720 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:52,874 http://jobs.zhaopin.com:80 "GET /608018625250427.htm HTTP/1.1" 200 None
+2017-08-22 22:30:52,938 成功插入85 条数据
+2017-08-22 22:30:53,352 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:53,366 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:53,616 http://jobs.zhaopin.com:80 "GET /130476728250910.htm HTTP/1.1" 200 None
+2017-08-22 22:30:53,641 成功插入90 条数据
+2017-08-22 22:30:53,762 http://jobs.zhaopin.com:80 "GET /130476728250912.htm HTTP/1.1" 200 None
+2017-08-22 22:30:53,788 成功插入86 条数据
+2017-08-22 22:30:53,925 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:54,338 http://jobs.zhaopin.com:80 "GET /392368316254480.htm HTTP/1.1" 200 None
+2017-08-22 22:30:54,361 成功插入91 条数据
+2017-08-22 22:30:54,624 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:54,719 http://jobs.zhaopin.com:80 "GET /245801282250089.htm HTTP/1.1" 200 None
+2017-08-22 22:30:54,770 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:54,808 成功插入104 条数据
+2017-08-22 22:30:54,894 http://jobs.zhaopin.com:80 "GET /629415822250172.htm HTTP/1.1" 200 None
+2017-08-22 22:30:55,101 成功插入92 条数据
+2017-08-22 22:30:55,345 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:55,474 http://jobs.zhaopin.com:80 "GET /133449020250311.htm HTTP/1.1" 200 None
+2017-08-22 22:30:55,538 成功插入105 条数据
+2017-08-22 22:30:55,770 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:55,881 http://jobs.zhaopin.com:80 "GET /290923433250090.htm HTTP/1.1" 200 None
+2017-08-22 22:30:55,955 成功插入106 条数据
+2017-08-22 22:30:56,089 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:56,217 http://jobs.zhaopin.com:80 "GET /315952115250372.htm HTTP/1.1" 200 None
+2017-08-22 22:30:56,284 成功插入93 条数据
+2017-08-22 22:30:56,480 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:56,605 http://jobs.zhaopin.com:80 "GET /220000318250267.htm HTTP/1.1" 200 None
+2017-08-22 22:30:56,691 成功插入94 条数据
+2017-08-22 22:30:56,931 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:57,025 http://jobs.zhaopin.com:80 "GET /691128728250051.htm HTTP/1.1" 200 None
+2017-08-22 22:30:57,060 成功插入87 条数据
+2017-08-22 22:30:57,268 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:57,450 http://jobs.zhaopin.com:80 "GET /282955583250021.htm HTTP/1.1" 200 None
+2017-08-22 22:30:57,477 成功插入95 条数据
+2017-08-22 22:30:57,652 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:57,781 http://jobs.zhaopin.com:80 "GET /675833628250050.htm HTTP/1.1" 200 None
+2017-08-22 22:30:57,805 成功插入107 条数据
+2017-08-22 22:30:58,035 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:58,424 http://jobs.zhaopin.com:80 "GET /245482882250650.htm HTTP/1.1" 200 None
+2017-08-22 22:30:58,461 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:58,467 成功插入108 条数据
+2017-08-22 22:30:58,561 http://jobs.zhaopin.com:80 "GET /426535734250375.htm HTTP/1.1" 200 None
+2017-08-22 22:30:58,588 成功插入96 条数据
+2017-08-22 22:30:58,794 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:59,035 http://jobs.zhaopin.com:80 "GET /526515630250004.htm HTTP/1.1" 200 None
+2017-08-22 22:30:59,119 成功插入97 条数据
+2017-08-22 22:30:59,449 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:59,565 http://jobs.zhaopin.com:80 "GET /244556388250085.htm HTTP/1.1" 200 None
+2017-08-22 22:30:59,573 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:30:59,591 成功插入109 条数据
+2017-08-22 22:30:59,679 http://jobs.zhaopin.com:80 "GET /255752039250062.htm HTTP/1.1" 200 None
+2017-08-22 22:30:59,745 成功插入88 条数据
+2017-08-22 22:31:00,095 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:00,186 http://jobs.zhaopin.com:80 "GET /130476728250893.htm HTTP/1.1" 200 None
+2017-08-22 22:31:00,265 成功插入98 条数据
+2017-08-22 22:31:00,578 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:00,674 http://jobs.zhaopin.com:80 "GET /290512286250083.htm HTTP/1.1" 200 None
+2017-08-22 22:31:00,689 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:00,702 成功插入110 条数据
+2017-08-22 22:31:00,830 http://jobs.zhaopin.com:80 "GET /131620946254052.htm HTTP/1.1" 200 None
+2017-08-22 22:31:00,858 成功插入111 条数据
+2017-08-22 22:31:01,247 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:01,344 http://jobs.zhaopin.com:80 "GET /508003889250004.htm HTTP/1.1" 200 None
+2017-08-22 22:31:01,435 成功插入89 条数据
+2017-08-22 22:31:01,683 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:01,794 http://jobs.zhaopin.com:80 "GET /622406029250113.htm HTTP/1.1" 200 None
+2017-08-22 22:31:01,841 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:01,922 成功插入90 条数据
+2017-08-22 22:31:02,019 http://jobs.zhaopin.com:80 "GET /512205488250000.htm HTTP/1.1" 200 None
+2017-08-22 22:31:02,043 成功插入91 条数据
+2017-08-22 22:31:02,396 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:02,839 http://jobs.zhaopin.com:80 "GET /325039335250033.htm HTTP/1.1" 200 None
+2017-08-22 22:31:02,861 成功插入99 条数据
+2017-08-22 22:31:02,885 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:02,980 http://jobs.zhaopin.com:80 "GET /283374382250170.htm HTTP/1.1" 200 None
+2017-08-22 22:31:03,006 成功插入92 条数据
+2017-08-22 22:31:03,029 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:03,152 http://jobs.zhaopin.com:80 "GET /626952920250309.htm HTTP/1.1" 200 None
+2017-08-22 22:31:03,295 成功插入100 条数据
+2017-08-22 22:31:03,847 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:03,990 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:04,008 http://jobs.zhaopin.com:80 "GET /455678839250043.htm HTTP/1.1" 200 None
+2017-08-22 22:31:04,066 成功插入112 条数据
+2017-08-22 22:31:04,121 http://jobs.zhaopin.com:80 "GET /315952115250295.htm HTTP/1.1" 200 None
+2017-08-22 22:31:04,254 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:04,315 成功插入113 条数据
+2017-08-22 22:31:04,529 http://jobs.zhaopin.com:80 "GET /255688139250034.htm HTTP/1.1" 200 None
+2017-08-22 22:31:04,554 成功插入93 条数据
+2017-08-22 22:31:05,035 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:05,220 http://jobs.zhaopin.com:80 "GET /133904064250036.htm HTTP/1.1" 200 None
+2017-08-22 22:31:05,244 成功插入114 条数据
+2017-08-22 22:31:05,294 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:05,510 http://jobs.zhaopin.com:80 "GET /144149095252086.htm HTTP/1.1" 200 None
+2017-08-22 22:31:05,537 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:05,541 成功插入94 条数据
+2017-08-22 22:31:05,662 http://jobs.zhaopin.com:80 "GET /702826326250093.htm HTTP/1.1" 200 None
+2017-08-22 22:31:05,705 成功插入101 条数据
+2017-08-22 22:31:06,231 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:06,343 http://jobs.zhaopin.com:80 "GET /318814438250001.htm HTTP/1.1" 200 None
+2017-08-22 22:31:06,365 成功插入115 条数据
+2017-08-22 22:31:06,519 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:06,623 http://jobs.zhaopin.com:80 "GET /12020031590250089000.htm HTTP/1.1" 200 None
+2017-08-22 22:31:06,672 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:06,709 成功插入95 条数据
+2017-08-22 22:31:06,793 http://jobs.zhaopin.com:80 "GET /368629084250001.htm HTTP/1.1" 200 None
+2017-08-22 22:31:06,816 成功插入96 条数据
+2017-08-22 22:31:07,348 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:07,454 http://jobs.zhaopin.com:80 "GET /120080264250509.htm HTTP/1.1" 200 None
+2017-08-22 22:31:07,515 成功插入102 条数据
+2017-08-22 22:31:07,678 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:07,777 http://jobs.zhaopin.com:80 "GET /659944721250005.htm HTTP/1.1" 200 None
+2017-08-22 22:31:07,800 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:07,892 成功插入116 条数据
+2017-08-22 22:31:08,163 http://jobs.zhaopin.com:80 "GET /CZ742477140J00051268701.htm HTTP/1.1" 200 None
+2017-08-22 22:31:08,187 成功插入97 条数据
+2017-08-22 22:31:08,501 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:08,732 http://jobs.zhaopin.com:80 "GET /CZ344222830J00011549304.htm HTTP/1.1" 200 None
+2017-08-22 22:31:08,757 成功插入98 条数据
+2017-08-22 22:31:08,848 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:09,000 http://jobs.zhaopin.com:80 "GET /680229720255798.htm HTTP/1.1" 200 None
+2017-08-22 22:31:09,051 成功插入103 条数据
+2017-08-22 22:31:09,176 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:09,277 http://jobs.zhaopin.com:80 "GET /120072290289650.htm HTTP/1.1" 200 None
+2017-08-22 22:31:09,739 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:10,011 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:10,046 http://jobs.zhaopin.com:80 "GET /CZ744311140J00061531701.htm HTTP/1.1" 200 None
+2017-08-22 22:31:10,074 成功插入104 条数据
+2017-08-22 22:31:10,285 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:10,334 http://jobs.zhaopin.com:80 "GET /CZ715566840J00024482605.htm HTTP/1.1" 200 None
+2017-08-22 22:31:10,422 成功插入99 条数据
+2017-08-22 22:31:10,531 http://jobs.zhaopin.com:80 "GET /CZ740720940J00033058501.htm HTTP/1.1" 200 None
+2017-08-22 22:31:10,561 成功插入105 条数据
+2017-08-22 22:31:11,056 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:11,344 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:11,349 http://jobs.zhaopin.com:80 "GET /CZ718063240J00020710105.htm HTTP/1.1" 200 None
+2017-08-22 22:31:11,370 成功插入117 条数据
+2017-08-22 22:31:11,540 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:11,572 http://jobs.zhaopin.com:80 "GET /CZ743512140J00062699301.htm HTTP/1.1" 200 None
+2017-08-22 22:31:11,603 成功插入106 条数据
+2017-08-22 22:31:11,743 http://jobs.zhaopin.com:80 "GET /CZ743512140J00062699501.htm HTTP/1.1" 200 None
+2017-08-22 22:31:11,763 成功插入100 条数据
+2017-08-22 22:31:12,359 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:12,589 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:12,652 http://jobs.zhaopin.com:80 "GET /CZ728598040J00024178805.htm HTTP/1.1" 200 None
+2017-08-22 22:31:12,708 成功插入101 条数据
+2017-08-22 22:31:12,752 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:12,851 http://jobs.zhaopin.com:80 "GET /CZ744448740J00061131201.htm HTTP/1.1" 200 None
+2017-08-22 22:31:12,883 成功插入102 条数据
+2017-08-22 22:31:12,987 http://jobs.zhaopin.com:80 "GET /CZ739806840J00062745701.htm HTTP/1.1" 200 None
+2017-08-22 22:31:13,012 成功插入103 条数据
+2017-08-22 22:31:13,660 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:13,861 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:13,900 http://jobs.zhaopin.com:80 "GET /CZ730936640J00056215801.htm HTTP/1.1" 200 None
+2017-08-22 22:31:13,924 成功插入118 条数据
+2017-08-22 22:31:13,996 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:14,095 http://jobs.zhaopin.com:80 "GET /CZ552170720J00062056501.htm HTTP/1.1" 200 None
+2017-08-22 22:31:14,170 成功插入107 条数据
+2017-08-22 22:31:14,312 http://jobs.zhaopin.com:80 "GET /CZ219663830J00011211508.htm HTTP/1.1" 200 None
+2017-08-22 22:31:14,373 成功插入104 条数据
+2017-08-22 22:31:14,911 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:15,146 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:15,287 http://jobs.zhaopin.com:80 "GET /CZ758978940J00020853607.htm HTTP/1.1" 200 None
+2017-08-22 22:31:15,329 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:15,392 成功插入108 条数据
+2017-08-22 22:31:15,516 http://jobs.zhaopin.com:80 "GET /CZ444263780J00025425303.htm HTTP/1.1" 200 None
+2017-08-22 22:31:15,537 成功插入105 条数据
+2017-08-22 22:31:15,793 http://jobs.zhaopin.com:80 "GET /CZ717779540J00025218303.htm HTTP/1.1" 200 None
+2017-08-22 22:31:15,816 成功插入119 条数据
+2017-08-22 22:31:16,297 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:16,525 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:16,599 http://jobs.zhaopin.com:80 "GET /CZ717184940J00019970807.htm HTTP/1.1" 200 None
+2017-08-22 22:31:16,645 成功插入109 条数据
+2017-08-22 22:31:16,771 http://jobs.zhaopin.com:80 "GET /CZ752641670J00006504715.htm HTTP/1.1" 200 None
+2017-08-22 22:31:16,801 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:16,803 成功插入106 条数据
+2017-08-22 22:31:17,006 http://jobs.zhaopin.com:80 "GET /CZ752233370J00007195909.htm HTTP/1.1" 200 None
+2017-08-22 22:31:17,616 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:17,805 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:17,848 http://jobs.zhaopin.com:80 "GET /CZ721015240J00015088605.htm HTTP/1.1" 200 None
+2017-08-22 22:31:17,873 成功插入110 条数据
+2017-08-22 22:31:18,018 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:18,036 http://jobs.zhaopin.com:80 "GET /CZ717945640J00019044905.htm HTTP/1.1" 200 None
+2017-08-22 22:31:18,082 成功插入107 条数据
+2017-08-22 22:31:18,263 http://jobs.zhaopin.com:80 "GET /CZ733164340J00000432803.htm HTTP/1.1" 200 None
+2017-08-22 22:31:18,290 成功插入108 条数据
+2017-08-22 22:31:18,856 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:19,048 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:19,275 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:19,313 http://jobs.zhaopin.com:80 "GET /CZ722377040J00061647201.htm HTTP/1.1" 200 None
+2017-08-22 22:31:19,347 http://jobs.zhaopin.com:80 "GET /CZ722600840J00014325705.htm HTTP/1.1" 200 None
+2017-08-22 22:31:19,394 成功插入111 条数据
+2017-08-22 22:31:19,428 成功插入120 条数据
+2017-08-22 22:31:19,482 http://jobs.zhaopin.com:80 "GET /CZ728044840J00023605805.htm HTTP/1.1" 200 None
+2017-08-22 22:31:19,538 成功插入121 条数据
+2017-08-22 22:31:20,326 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:20,381 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:20,429 http://jobs.zhaopin.com:80 "GET /444406089250223.htm HTTP/1.1" 200 None
+2017-08-22 22:31:20,470 http://jobs.zhaopin.com:80 "GET /513433027251886.htm HTTP/1.1" 200 None
+2017-08-22 22:31:20,573 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:20,634 成功插入109 条数据
+2017-08-22 22:31:20,652 成功插入122 条数据
+2017-08-22 22:31:20,726 http://jobs.zhaopin.com:80 "GET /513433027250819.htm HTTP/1.1" 200 None
+2017-08-22 22:31:20,890 成功插入123 条数据
+2017-08-22 22:31:21,577 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:21,585 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:21,694 http://jobs.zhaopin.com:80 "GET /537978524250074.htm HTTP/1.1" 200 None
+2017-08-22 22:31:21,713 http://jobs.zhaopin.com:80 "GET /537297129251964.htm HTTP/1.1" 200 None
+2017-08-22 22:31:21,767 成功插入124 条数据
+2017-08-22 22:31:21,774 成功插入110 条数据
+2017-08-22 22:31:21,866 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:22,061 http://jobs.zhaopin.com:80 "GET /139212878252398.htm HTTP/1.1" 200 None
+2017-08-22 22:31:22,121 成功插入112 条数据
+2017-08-22 22:31:22,723 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:22,741 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:22,831 http://jobs.zhaopin.com:80 "GET /292234512250005.htm HTTP/1.1" 200 None
+2017-08-22 22:31:22,869 http://jobs.zhaopin.com:80 "GET /131955194255749.htm HTTP/1.1" 200 None
+2017-08-22 22:31:22,902 成功插入111 条数据
+2017-08-22 22:31:22,923 成功插入113 条数据
+2017-08-22 22:31:23,103 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:23,223 http://jobs.zhaopin.com:80 "GET /238347637250045.htm HTTP/1.1" 200 None
+2017-08-22 22:31:23,265 成功插入114 条数据
+2017-08-22 22:31:23,878 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:23,888 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:24,047 http://jobs.zhaopin.com:80 "GET /394322235250059.htm HTTP/1.1" 200 None
+2017-08-22 22:31:24,076 http://jobs.zhaopin.com:80 "GET /509818226250141.htm HTTP/1.1" 200 None
+2017-08-22 22:31:24,105 成功插入112 条数据
+2017-08-22 22:31:24,117 成功插入115 条数据
+2017-08-22 22:31:24,253 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:24,382 http://jobs.zhaopin.com:80 "GET /616521520250209.htm HTTP/1.1" 200 None
+2017-08-22 22:31:24,492 成功插入116 条数据
+2017-08-22 22:31:25,087 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:25,088 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:25,202 http://jobs.zhaopin.com:80 "GET /412683138250825.htm HTTP/1.1" 200 None
+2017-08-22 22:31:25,205 http://jobs.zhaopin.com:80 "GET /141065973250197.htm HTTP/1.1" 200 None
+2017-08-22 22:31:25,243 成功插入113 条数据
+2017-08-22 22:31:25,285 成功插入117 条数据
+2017-08-22 22:31:25,442 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:25,583 http://jobs.zhaopin.com:80 "GET /203296135250752.htm HTTP/1.1" 200 None
+2017-08-22 22:31:25,621 成功插入114 条数据
+2017-08-22 22:31:26,212 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:26,268 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:26,367 http://jobs.zhaopin.com:80 "GET /628989229253333.htm HTTP/1.1" 200 None
+2017-08-22 22:31:26,398 http://jobs.zhaopin.com:80 "GET /157775119250764.htm HTTP/1.1" 200 None
+2017-08-22 22:31:26,405 成功插入118 条数据
+2017-08-22 22:31:26,496 成功插入125 条数据
+2017-08-22 22:31:26,602 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:26,732 http://jobs.zhaopin.com:80 "GET /409606739250021.htm HTTP/1.1" 200 None
+2017-08-22 22:31:26,756 成功插入115 条数据
+2017-08-22 22:31:27,386 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:27,462 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:27,637 http://jobs.zhaopin.com:80 "GET /279229084250028.htm HTTP/1.1" 200 None
+2017-08-22 22:31:27,639 http://jobs.zhaopin.com:80 "GET /308000738250245.htm HTTP/1.1" 200 None
+2017-08-22 22:31:27,741 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:27,863 成功插入116 条数据
+2017-08-22 22:31:27,894 成功插入126 条数据
+2017-08-22 22:31:28,690 http://jobs.zhaopin.com:80 "GET /296514487250095.htm HTTP/1.1" 200 None
+2017-08-22 22:31:28,776 成功插入119 条数据
+2017-08-22 22:31:28,801 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:28,804 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:28,943 http://jobs.zhaopin.com:80 "GET /469217519254450.htm HTTP/1.1" 200 None
+2017-08-22 22:31:28,976 成功插入117 条数据
+2017-08-22 22:31:29,462 http://jobs.zhaopin.com:80 "GET /310846737250016.htm HTTP/1.1" 200 None
+2017-08-22 22:31:29,546 成功插入120 条数据
+2017-08-22 22:31:29,750 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:29,919 http://jobs.zhaopin.com:80 "GET /238347637250139.htm HTTP/1.1" 200 None
+2017-08-22 22:31:29,951 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:30,006 成功插入127 条数据
+2017-08-22 22:31:30,079 http://jobs.zhaopin.com:80 "GET /465348618250323.htm HTTP/1.1" 200 None
+2017-08-22 22:31:30,125 成功插入118 条数据
+2017-08-22 22:31:30,531 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:30,677 http://jobs.zhaopin.com:80 "GET /423296811250081.htm HTTP/1.1" 200 None
+2017-08-22 22:31:30,745 成功插入119 条数据
+2017-08-22 22:31:30,975 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:31,086 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:31,097 http://jobs.zhaopin.com:80 "GET /281947036250369.htm HTTP/1.1" 200 None
+2017-08-22 22:31:31,117 成功插入128 条数据
+2017-08-22 22:31:31,232 http://jobs.zhaopin.com:80 "GET /576110525250223.htm HTTP/1.1" 200 None
+2017-08-22 22:31:31,296 成功插入120 条数据
+2017-08-22 22:31:31,727 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:31,927 http://jobs.zhaopin.com:80 "GET /434354133250302.htm HTTP/1.1" 200 None
+2017-08-22 22:31:31,948 成功插入121 条数据
+2017-08-22 22:31:32,107 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:32,210 http://jobs.zhaopin.com:80 "GET /434354133250295.htm HTTP/1.1" 200 None
+2017-08-22 22:31:32,283 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:32,301 成功插入121 条数据
+2017-08-22 22:31:32,500 http://jobs.zhaopin.com:80 "GET /CZ738513640J00061554001.htm HTTP/1.1" 200 None
+2017-08-22 22:31:32,620 成功插入122 条数据
+2017-08-22 22:31:32,936 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:33,079 http://jobs.zhaopin.com:80 "GET /238347637250004.htm HTTP/1.1" 200 None
+2017-08-22 22:31:33,202 成功插入123 条数据
+2017-08-22 22:31:33,277 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:33,406 http://jobs.zhaopin.com:80 "GET /414712839250056.htm HTTP/1.1" 200 None
+2017-08-22 22:31:33,440 成功插入124 条数据
+2017-08-22 22:31:33,576 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:33,744 http://jobs.zhaopin.com:80 "GET /687797323250173.htm HTTP/1.1" 200 None
+2017-08-22 22:31:33,820 成功插入125 条数据
+2017-08-22 22:31:34,163 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:34,292 http://jobs.zhaopin.com:80 "GET /320228830250032.htm HTTP/1.1" 200 None
+2017-08-22 22:31:34,314 成功插入129 条数据
+2017-08-22 22:31:34,415 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:34,511 http://jobs.zhaopin.com:80 "GET /296514487250098.htm HTTP/1.1" 200 None
+2017-08-22 22:31:34,560 成功插入122 条数据
+2017-08-22 22:31:34,797 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:35,298 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:35,308 http://jobs.zhaopin.com:80 "GET /CZ735778440J00008445405.htm HTTP/1.1" 200 None
+2017-08-22 22:31:35,330 成功插入126 条数据
+2017-08-22 22:31:35,519 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:35,572 http://jobs.zhaopin.com:80 "GET /CZ718723540J00024805403.htm HTTP/1.1" 200 None
+2017-08-22 22:31:35,627 成功插入123 条数据
+2017-08-22 22:31:35,750 http://jobs.zhaopin.com:80 "GET /CZ743061640J00057298601.htm HTTP/1.1" 200 None
+2017-08-22 22:31:35,780 成功插入127 条数据
+2017-08-22 22:31:36,318 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:36,429 http://jobs.zhaopin.com:80 "GET /349112188250236.htm HTTP/1.1" 200 None
+2017-08-22 22:31:36,450 成功插入128 条数据
+2017-08-22 22:31:36,611 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:36,718 http://jobs.zhaopin.com:80 "GET /578421329250130.htm HTTP/1.1" 200 None
+2017-08-22 22:31:36,761 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:36,798 成功插入124 条数据
+2017-08-22 22:31:36,880 http://jobs.zhaopin.com:80 "GET /553560423250140.htm HTTP/1.1" 200 None
+2017-08-22 22:31:36,916 成功插入130 条数据
+2017-08-22 22:31:37,438 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:37,557 http://jobs.zhaopin.com:80 "GET /526818638250023.htm HTTP/1.1" 200 None
+2017-08-22 22:31:37,579 成功插入125 条数据
+2017-08-22 22:31:37,769 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:37,891 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:37,930 http://jobs.zhaopin.com:80 "GET /283118688250036.htm HTTP/1.1" 200 None
+2017-08-22 22:31:37,972 成功插入131 条数据
+2017-08-22 22:31:38,109 http://jobs.zhaopin.com:80 "GET /CZ720495140J00023533703.htm HTTP/1.1" 200 None
+2017-08-22 22:31:38,143 成功插入126 条数据
+2017-08-22 22:31:38,566 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:38,687 http://jobs.zhaopin.com:80 "GET /300716386250134.htm HTTP/1.1" 200 None
+2017-08-22 22:31:38,725 成功插入127 条数据
+2017-08-22 22:31:38,961 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:39,088 http://jobs.zhaopin.com:80 "GET /528996131250480.htm HTTP/1.1" 200 None
+2017-08-22 22:31:39,119 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:39,126 成功插入132 条数据
+2017-08-22 22:31:39,284 http://jobs.zhaopin.com:80 "GET /484053532250048.htm HTTP/1.1" 200 None
+2017-08-22 22:31:39,308 成功插入133 条数据
+2017-08-22 22:31:39,696 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:40,055 http://jobs.zhaopin.com:80 "GET /574480123250102.htm HTTP/1.1" 200 None
+2017-08-22 22:31:40,099 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:40,122 成功插入134 条数据
+2017-08-22 22:31:40,294 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:40,509 http://jobs.zhaopin.com:80 "GET /194392311250042.htm HTTP/1.1" 200 None
+2017-08-22 22:31:40,535 成功插入128 条数据
+2017-08-22 22:31:40,605 http://jobs.zhaopin.com:80 "GET /409287531250137.htm HTTP/1.1" 200 None
+2017-08-22 22:31:40,700 成功插入135 条数据
+2017-08-22 22:31:41,082 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:41,516 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:41,524 http://jobs.zhaopin.com:80 "GET /CZ718723540J00026751903.htm HTTP/1.1" 200 None
+2017-08-22 22:31:41,553 成功插入129 条数据
+2017-08-22 22:31:41,670 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:41,696 http://jobs.zhaopin.com:80 "GET /416554914250168.htm HTTP/1.1" 200 None
+2017-08-22 22:31:41,736 成功插入136 条数据
+2017-08-22 22:31:41,813 http://jobs.zhaopin.com:80 "GET /526818638250031.htm HTTP/1.1" 200 None
+2017-08-22 22:31:41,885 成功插入130 条数据
+2017-08-22 22:31:42,532 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:42,724 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:42,745 http://jobs.zhaopin.com:80 "GET /553560423250147.htm HTTP/1.1" 200 None
+2017-08-22 22:31:42,866 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:42,920 成功插入131 条数据
+2017-08-22 22:31:42,989 http://jobs.zhaopin.com:80 "GET /120619558252206.htm HTTP/1.1" 200 None
+2017-08-22 22:31:43,061 http://jobs.zhaopin.com:80 "GET /CZ723675740J00013407207.htm HTTP/1.1" 200 None
+2017-08-22 22:31:43,078 成功插入137 条数据
+2017-08-22 22:31:43,102 成功插入129 条数据
+2017-08-22 22:31:43,850 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:43,958 http://jobs.zhaopin.com:80 "GET /120619558252208.htm HTTP/1.1" 200 None
+2017-08-22 22:31:44,048 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:44,069 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:44,070 成功插入130 条数据
+2017-08-22 22:31:44,154 http://jobs.zhaopin.com:80 "GET /120619558252207.htm HTTP/1.1" 200 None
+2017-08-22 22:31:44,178 http://jobs.zhaopin.com:80 "GET /264636718251466.htm HTTP/1.1" 200 None
+2017-08-22 22:31:44,204 成功插入132 条数据
+2017-08-22 22:31:44,251 成功插入138 条数据
+2017-08-22 22:31:45,008 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:45,138 http://jobs.zhaopin.com:80 "GET /493832385250014.htm HTTP/1.1" 200 None
+2017-08-22 22:31:45,182 成功插入133 条数据
+2017-08-22 22:31:45,187 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:45,205 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:45,301 http://jobs.zhaopin.com:80 "GET /244326132260894.htm HTTP/1.1" 200 None
+2017-08-22 22:31:45,335 成功插入134 条数据
+2017-08-22 22:31:45,387 http://jobs.zhaopin.com:80 "GET /273735884250109.htm HTTP/1.1" 200 None
+2017-08-22 22:31:45,487 成功插入135 条数据
+2017-08-22 22:31:46,149 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:46,276 http://jobs.zhaopin.com:80 "GET /000308509251883.htm HTTP/1.1" 200 None
+2017-08-22 22:31:46,304 成功插入136 条数据
+2017-08-22 22:31:46,312 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:46,417 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:46,445 http://jobs.zhaopin.com:80 "GET /000202869250384.htm HTTP/1.1" 200 None
+2017-08-22 22:31:46,500 成功插入131 条数据
+2017-08-22 22:31:46,528 http://jobs.zhaopin.com:80 "GET /688998424250245.htm HTTP/1.1" 200 None
+2017-08-22 22:31:46,629 成功插入139 条数据
+2017-08-22 22:31:47,281 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:47,454 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:47,501 http://jobs.zhaopin.com:80 "GET /494830580250006.htm HTTP/1.1" 200 None
+2017-08-22 22:31:47,562 http://jobs.zhaopin.com:80 "GET /451851680250000.htm HTTP/1.1" 200 None
+2017-08-22 22:31:47,595 成功插入140 条数据
+2017-08-22 22:31:47,603 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:47,614 成功插入137 条数据
+2017-08-22 22:31:47,903 http://jobs.zhaopin.com:80 "GET /CZ717438240J00060597201.htm HTTP/1.1" 200 None
+2017-08-22 22:31:47,935 成功插入138 条数据
+2017-08-22 22:31:48,570 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:48,581 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:48,670 http://jobs.zhaopin.com:80 "GET /227269436250175.htm HTTP/1.1" 200 None
+2017-08-22 22:31:48,790 成功插入141 条数据
+2017-08-22 22:31:48,858 http://jobs.zhaopin.com:80 "GET /CZ723675740J00013675307.htm HTTP/1.1" 200 None
+2017-08-22 22:31:48,891 成功插入142 条数据
+2017-08-22 22:31:48,919 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:49,047 http://jobs.zhaopin.com:80 "GET /295150432250420.htm HTTP/1.1" 200 None
+2017-08-22 22:31:49,071 成功插入143 条数据
+2017-08-22 22:31:49,763 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:49,872 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:50,055 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:50,509 http://jobs.zhaopin.com:80 "GET /655380822250232.htm HTTP/1.1" 200 None
+2017-08-22 22:31:50,510 http://jobs.zhaopin.com:80 "GET /664195021250226.htm HTTP/1.1" 200 None
+2017-08-22 22:31:50,513 http://jobs.zhaopin.com:80 "GET /166320713250349.htm HTTP/1.1" 200 None
+2017-08-22 22:31:50,551 成功插入139 条数据
+2017-08-22 22:31:50,572 成功插入144 条数据
+2017-08-22 22:31:50,587 成功插入132 条数据
+2017-08-22 22:31:51,531 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:51,532 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:51,532 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:51,664 http://jobs.zhaopin.com:80 "GET /131486150294013.htm HTTP/1.1" 200 None
+2017-08-22 22:31:51,694 http://jobs.zhaopin.com:80 "GET /120143601284428.htm HTTP/1.1" 200 None
+2017-08-22 22:31:51,694 http://jobs.zhaopin.com:80 "GET /136899604250030.htm HTTP/1.1" 200 None
+2017-08-22 22:31:51,725 成功插入140 条数据
+2017-08-22 22:31:51,748 成功插入145 条数据
+2017-08-22 22:31:51,765 成功插入141 条数据
+2017-08-22 22:31:52,677 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:52,707 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:52,752 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:52,825 http://jobs.zhaopin.com:80 "GET /451851680250007.htm HTTP/1.1" 200 None
+2017-08-22 22:31:52,837 http://jobs.zhaopin.com:80 "GET /550565229250134.htm HTTP/1.1" 200 None
+2017-08-22 22:31:52,872 成功插入133 条数据
+2017-08-22 22:31:52,903 成功插入134 条数据
+2017-08-22 22:31:53,056 http://jobs.zhaopin.com:80 "GET /CZ719271640J00016924205.htm HTTP/1.1" 200 None
+2017-08-22 22:31:53,105 成功插入135 条数据
+2017-08-22 22:31:53,848 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:53,879 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:53,973 http://jobs.zhaopin.com:80 "GET /654981921250014.htm HTTP/1.1" 200 None
+2017-08-22 22:31:53,986 http://jobs.zhaopin.com:80 "GET /358492518250258.htm HTTP/1.1" 200 None
+2017-08-22 22:31:53,999 成功插入136 条数据
+2017-08-22 22:31:54,067 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:54,077 成功插入137 条数据
+2017-08-22 22:31:54,208 http://jobs.zhaopin.com:80 "GET /668904923250041.htm HTTP/1.1" 200 None
+2017-08-22 22:31:54,301 成功插入142 条数据
+2017-08-22 22:31:54,982 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:55,037 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:55,110 http://jobs.zhaopin.com:80 "GET /371126580250001.htm HTTP/1.1" 200 None
+2017-08-22 22:31:55,142 http://jobs.zhaopin.com:80 "GET /120072290290499.htm HTTP/1.1" 200 None
+2017-08-22 22:31:55,148 成功插入143 条数据
+2017-08-22 22:31:55,270 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:55,396 http://jobs.zhaopin.com:80 "GET /364485728253078.htm HTTP/1.1" 200 None
+2017-08-22 22:31:55,478 成功插入146 条数据
+2017-08-22 22:31:56,121 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:56,193 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:56,247 http://jobs.zhaopin.com:80 "GET /120072290290465.htm HTTP/1.1" 200 None
+2017-08-22 22:31:56,307 http://jobs.zhaopin.com:80 "GET /120072290290450.htm HTTP/1.1" 200 None
+2017-08-22 22:31:56,464 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:56,591 http://jobs.zhaopin.com:80 "GET /364485728253069.htm HTTP/1.1" 200 None
+2017-08-22 22:31:56,624 成功插入138 条数据
+2017-08-22 22:31:57,260 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:57,317 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:57,385 http://jobs.zhaopin.com:80 "GET /120072290290385.htm HTTP/1.1" 200 None
+2017-08-22 22:31:57,444 http://jobs.zhaopin.com:80 "GET /120072290290369.htm HTTP/1.1" 200 None
+2017-08-22 22:31:57,605 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:57,737 http://jobs.zhaopin.com:80 "GET /000592781258054.htm HTTP/1.1" 200 None
+2017-08-22 22:31:57,826 成功插入144 条数据
+2017-08-22 22:31:58,448 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:58,455 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:58,580 http://jobs.zhaopin.com:80 "GET /120094038252205.htm HTTP/1.1" 200 None
+2017-08-22 22:31:58,606 http://jobs.zhaopin.com:80 "GET /000592781258015.htm HTTP/1.1" 200 None
+2017-08-22 22:31:58,611 成功插入147 条数据
+2017-08-22 22:31:58,686 成功插入145 条数据
+2017-08-22 22:31:58,796 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:58,898 http://jobs.zhaopin.com:80 "GET /120072290290206.htm HTTP/1.1" 200 None
+2017-08-22 22:31:59,588 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:59,660 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:31:59,705 http://jobs.zhaopin.com:80 "GET /120072290290219.htm HTTP/1.1" 200 None
+2017-08-22 22:31:59,770 http://jobs.zhaopin.com:80 "GET /120072290290217.htm HTTP/1.1" 200 None
+2017-08-22 22:31:59,949 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:00,096 http://jobs.zhaopin.com:80 "GET /364485728252978.htm HTTP/1.1" 200 None
+2017-08-22 22:32:00,132 成功插入148 条数据
+2017-08-22 22:32:00,760 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:00,830 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:00,866 http://jobs.zhaopin.com:80 "GET /364485728252970.htm HTTP/1.1" 200 None
+2017-08-22 22:32:00,939 成功插入149 条数据
+2017-08-22 22:32:00,972 http://jobs.zhaopin.com:80 "GET /120072290290183.htm HTTP/1.1" 200 None
+2017-08-22 22:32:01,108 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:01,206 http://jobs.zhaopin.com:80 "GET /434217314260411.htm HTTP/1.1" 200 None
+2017-08-22 22:32:01,279 成功插入150 条数据
+2017-08-22 22:32:01,913 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:01,981 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:02,052 http://jobs.zhaopin.com:80 "GET /120072290290077.htm HTTP/1.1" 200 None
+2017-08-22 22:32:02,079 http://jobs.zhaopin.com:80 "GET /434217314260459.htm HTTP/1.1" 200 None
+2017-08-22 22:32:02,149 成功插入151 条数据
+2017-08-22 22:32:02,259 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:02,515 http://jobs.zhaopin.com:80 "GET /379797738250538.htm HTTP/1.1" 200 None
+2017-08-22 22:32:02,551 成功插入152 条数据
+2017-08-22 22:32:03,064 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:03,134 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:03,393 http://jobs.zhaopin.com:80 "GET /120072290289844.htm HTTP/1.1" 200 None
+2017-08-22 22:32:03,432 成功插入139 条数据
+2017-08-22 22:32:03,529 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:03,572 http://jobs.zhaopin.com:80 "GET /120072290289764.htm HTTP/1.1" 200 None
+2017-08-22 22:32:03,629 成功插入146 条数据
+2017-08-22 22:32:03,639 http://jobs.zhaopin.com:80 "GET /120072290289755.htm HTTP/1.1" 200 None
+2017-08-22 22:32:03,676 成功插入140 条数据
+2017-08-22 22:32:04,402 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:04,518 http://jobs.zhaopin.com:80 "GET /135999435263373.htm HTTP/1.1" 200 None
+2017-08-22 22:32:04,581 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:04,598 成功插入153 条数据
+2017-08-22 22:32:04,653 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:04,676 http://jobs.zhaopin.com:80 "GET /135999435263407.htm HTTP/1.1" 200 None
+2017-08-22 22:32:04,705 成功插入154 条数据
+2017-08-22 22:32:04,746 http://jobs.zhaopin.com:80 "GET /120072290289656.htm HTTP/1.1" 200 None
+2017-08-22 22:32:04,787 成功插入155 条数据
+2017-08-22 22:32:05,576 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:05,662 http://jobs.zhaopin.com:80 "GET /120072290289019.htm HTTP/1.1" 200 None
+2017-08-22 22:32:05,696 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:05,756 成功插入141 条数据
+2017-08-22 22:32:05,760 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:05,797 http://jobs.zhaopin.com:80 "GET /120072290289018.htm HTTP/1.1" 200 None
+2017-08-22 22:32:05,876 成功插入156 条数据
+2017-08-22 22:32:05,881 http://jobs.zhaopin.com:80 "GET /120072290288943.htm HTTP/1.1" 200 None
+2017-08-22 22:32:05,928 成功插入142 条数据
+2017-08-22 22:32:06,727 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:06,855 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:06,859 http://jobs.zhaopin.com:80 "GET /120072290288822.htm HTTP/1.1" 200 None
+2017-08-22 22:32:06,890 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:06,914 成功插入157 条数据
+2017-08-22 22:32:06,979 http://jobs.zhaopin.com:80 "GET /120072290288857.htm HTTP/1.1" 200 None
+2017-08-22 22:32:07,009 http://jobs.zhaopin.com:80 "GET /147576908254889.htm HTTP/1.1" 200 None
+2017-08-22 22:32:07,029 成功插入143 条数据
+2017-08-22 22:32:07,089 成功插入158 条数据
+2017-08-22 22:32:07,869 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:07,995 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:08,008 http://jobs.zhaopin.com:80 "GET /120072290288624.htm HTTP/1.1" 200 None
+2017-08-22 22:32:08,052 成功插入147 条数据
+2017-08-22 22:32:08,069 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:08,119 http://jobs.zhaopin.com:80 "GET /545530129250934.htm HTTP/1.1" 200 None
+2017-08-22 22:32:08,156 成功插入144 条数据
+2017-08-22 22:32:08,205 http://jobs.zhaopin.com:80 "GET /12022026090268663000.htm HTTP/1.1" 200 None
+2017-08-22 22:32:09,014 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:09,128 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:09,152 http://jobs.zhaopin.com:80 "GET /120072290288120.htm HTTP/1.1" 200 None
+2017-08-22 22:32:09,188 成功插入148 条数据
+2017-08-22 22:32:09,219 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:09,229 http://jobs.zhaopin.com:80 "GET /120073817251336.htm HTTP/1.1" 200 None
+2017-08-22 22:32:09,292 成功插入145 条数据
+2017-08-22 22:32:09,336 http://jobs.zhaopin.com:80 "GET /120073817250577.htm HTTP/1.1" 200 None
+2017-08-22 22:32:09,362 成功插入146 条数据
+2017-08-22 22:32:10,166 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:10,274 http://jobs.zhaopin.com:80 "GET /508620126257112.htm HTTP/1.1" 200 None
+2017-08-22 22:32:10,278 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:10,342 成功插入147 条数据
+2017-08-22 22:32:10,347 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:10,386 http://jobs.zhaopin.com:80 "GET /508620126257105.htm HTTP/1.1" 200 None
+2017-08-22 22:32:10,463 成功插入148 条数据
+2017-08-22 22:32:10,466 http://jobs.zhaopin.com:80 "GET /538279728250427.htm HTTP/1.1" 200 None
+2017-08-22 22:32:10,577 成功插入149 条数据
+2017-08-22 22:32:11,327 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:11,437 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:11,497 http://jobs.zhaopin.com:80 "GET /508620126257124.htm HTTP/1.1" 200 None
+2017-08-22 22:32:11,538 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:11,565 成功插入149 条数据
+2017-08-22 22:32:11,654 http://jobs.zhaopin.com:80 "GET /631527229250002.htm HTTP/1.1" 200 None
+2017-08-22 22:32:11,676 成功插入159 条数据
+2017-08-22 22:32:11,848 http://jobs.zhaopin.com:80 "GET /CZ720090740J00026239103.htm HTTP/1.1" 200 None
+2017-08-22 22:32:11,886 成功插入150 条数据
+2017-08-22 22:32:12,550 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:12,663 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:12,682 http://jobs.zhaopin.com:80 "GET /585435125250012.htm HTTP/1.1" 200 None
+2017-08-22 22:32:12,717 成功插入150 条数据
+2017-08-22 22:32:12,778 http://jobs.zhaopin.com:80 "GET /604550421250174.htm HTTP/1.1" 200 None
+2017-08-22 22:32:12,851 成功插入160 条数据
+2017-08-22 22:32:12,860 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:12,985 http://jobs.zhaopin.com:80 "GET /508620126257943.htm HTTP/1.1" 200 None
+2017-08-22 22:32:13,006 成功插入151 条数据
+2017-08-22 22:32:13,698 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:13,831 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:13,835 http://jobs.zhaopin.com:80 "GET /363707818250108.htm HTTP/1.1" 200 None
+2017-08-22 22:32:13,859 成功插入161 条数据
+2017-08-22 22:32:13,992 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:14,286 http://jobs.zhaopin.com:80 "GET /335416510252281.htm HTTP/1.1" 200 None
+2017-08-22 22:32:14,300 http://jobs.zhaopin.com:80 "GET /CZ717751540J00026508503.htm HTTP/1.1" 200 None
+2017-08-22 22:32:14,315 成功插入151 条数据
+2017-08-22 22:32:14,340 成功插入162 条数据
+2017-08-22 22:32:14,845 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:15,047 http://jobs.zhaopin.com:80 "GET /508620126257800.htm HTTP/1.1" 200 None
+2017-08-22 22:32:15,085 成功插入152 条数据
+2017-08-22 22:32:15,299 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:15,313 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:15,511 http://jobs.zhaopin.com:80 "GET /120137343257219.htm HTTP/1.1" 200 None
+2017-08-22 22:32:15,516 http://jobs.zhaopin.com:80 "GET /215914539250046.htm HTTP/1.1" 200 None
+2017-08-22 22:32:15,547 成功插入152 条数据
+2017-08-22 22:32:15,572 成功插入153 条数据
+2017-08-22 22:32:16,060 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:16,245 http://jobs.zhaopin.com:80 "GET /278441814251240.htm HTTP/1.1" 200 None
+2017-08-22 22:32:16,525 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:16,526 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:16,689 http://jobs.zhaopin.com:80 "GET /216494030250194.htm HTTP/1.1" 200 None
+2017-08-22 22:32:16,713 http://jobs.zhaopin.com:80 "GET /508620126257801.htm HTTP/1.1" 200 None
+2017-08-22 22:32:16,714 成功插入163 条数据
+2017-08-22 22:32:16,738 成功插入154 条数据
+2017-08-22 22:32:17,305 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:17,553 http://jobs.zhaopin.com:80 "GET /CZ718482540J00018257207.htm HTTP/1.1" 200 None
+2017-08-22 22:32:17,578 成功插入155 条数据
+2017-08-22 22:32:17,700 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:17,728 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:17,825 http://jobs.zhaopin.com:80 "GET /508620126257773.htm HTTP/1.1" 200 None
+2017-08-22 22:32:17,835 http://jobs.zhaopin.com:80 "GET /278441814251224.htm HTTP/1.1" 200 None
+2017-08-22 22:32:17,863 成功插入164 条数据
+2017-08-22 22:32:17,907 成功插入156 条数据
+2017-08-22 22:32:18,563 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:18,675 http://jobs.zhaopin.com:80 "GET /508620126256436.htm HTTP/1.1" 200 None
+2017-08-22 22:32:18,767 成功插入165 条数据
+2017-08-22 22:32:18,835 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:18,885 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:18,955 http://jobs.zhaopin.com:80 "GET /504067681250020.htm HTTP/1.1" 200 None
+2017-08-22 22:32:18,996 成功插入166 条数据
+2017-08-22 22:32:19,006 http://jobs.zhaopin.com:80 "GET /486855288250025.htm HTTP/1.1" 200 None
+2017-08-22 22:32:19,051 成功插入167 条数据
+2017-08-22 22:32:19,731 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:19,867 http://jobs.zhaopin.com:80 "GET /508620126257665.htm HTTP/1.1" 200 None
+2017-08-22 22:32:19,889 成功插入157 条数据
+2017-08-22 22:32:19,964 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:20,014 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:20,147 http://jobs.zhaopin.com:80 "GET /508620126257692.htm HTTP/1.1" 200 None
+2017-08-22 22:32:20,170 成功插入153 条数据
+2017-08-22 22:32:20,178 http://jobs.zhaopin.com:80 "GET /CZ725568440J00021272405.htm HTTP/1.1" 200 None
+2017-08-22 22:32:20,201 成功插入154 条数据
+2017-08-22 22:32:20,874 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:20,997 http://jobs.zhaopin.com:80 "GET /504828426250649.htm HTTP/1.1" 200 None
+2017-08-22 22:32:21,069 成功插入155 条数据
+2017-08-22 22:32:21,154 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:21,189 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:21,276 http://jobs.zhaopin.com:80 "GET /662439721250595.htm HTTP/1.1" 200 None
+2017-08-22 22:32:21,290 http://jobs.zhaopin.com:80 "GET /132962994253908.htm HTTP/1.1" 200 None
+2017-08-22 22:32:21,321 成功插入168 条数据
+2017-08-22 22:32:21,361 成功插入169 条数据
+2017-08-22 22:32:22,051 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:22,167 http://jobs.zhaopin.com:80 "GET /508620126257570.htm HTTP/1.1" 200 None
+2017-08-22 22:32:22,249 成功插入170 条数据
+2017-08-22 22:32:22,301 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:22,334 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:22,430 http://jobs.zhaopin.com:80 "GET /132962994253906.htm HTTP/1.1" 200 None
+2017-08-22 22:32:22,504 成功插入156 条数据
+2017-08-22 22:32:22,563 http://jobs.zhaopin.com:80 "GET /CZ718329740J00019304807.htm HTTP/1.1" 200 None
+2017-08-22 22:32:22,602 成功插入157 条数据
+2017-08-22 22:32:23,221 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:23,314 http://jobs.zhaopin.com:80 "GET /508620126257338.htm HTTP/1.1" 200 None
+2017-08-22 22:32:23,397 成功插入158 条数据
+2017-08-22 22:32:23,475 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:23,571 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:23,847 http://jobs.zhaopin.com:80 "GET /508620126257495.htm HTTP/1.1" 200 None
+2017-08-22 22:32:23,880 成功插入159 条数据
+2017-08-22 22:32:23,951 http://jobs.zhaopin.com:80 "GET /508620126257424.htm HTTP/1.1" 200 None
+2017-08-22 22:32:23,989 成功插入160 条数据
+2017-08-22 22:32:24,364 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:24,502 http://jobs.zhaopin.com:80 "GET /304068014256359.htm HTTP/1.1" 200 None
+2017-08-22 22:32:24,594 成功插入171 条数据
+2017-08-22 22:32:24,858 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:24,959 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:25,008 http://jobs.zhaopin.com:80 "GET /434976935250001.htm HTTP/1.1" 200 None
+2017-08-22 22:32:25,030 成功插入161 条数据
+2017-08-22 22:32:25,319 http://jobs.zhaopin.com:80 "GET /CZ748609040J00054929901.htm HTTP/1.1" 200 None
+2017-08-22 22:32:25,345 成功插入158 条数据
+2017-08-22 22:32:25,561 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:25,919 http://jobs.zhaopin.com:80 "GET /508620126257280.htm HTTP/1.1" 200 None
+2017-08-22 22:32:25,952 成功插入159 条数据
+2017-08-22 22:32:26,020 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:26,227 http://jobs.zhaopin.com:80 "GET /449022384250150.htm HTTP/1.1" 200 None
+2017-08-22 22:32:26,270 成功插入162 条数据
+2017-08-22 22:32:26,329 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:26,520 http://jobs.zhaopin.com:80 "GET /358101529250964.htm HTTP/1.1" 200 None
+2017-08-22 22:32:26,561 成功插入172 条数据
+2017-08-22 22:32:26,928 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:27,088 http://jobs.zhaopin.com:80 "GET /358101529250966.htm HTTP/1.1" 200 None
+2017-08-22 22:32:27,165 成功插入160 条数据
+2017-08-22 22:32:27,240 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:27,357 http://jobs.zhaopin.com:80 "GET /508620126257032.htm HTTP/1.1" 200 None
+2017-08-22 22:32:27,386 成功插入163 条数据
+2017-08-22 22:32:27,547 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:27,846 http://jobs.zhaopin.com:80 "GET /132962994253736.htm HTTP/1.1" 200 None
+2017-08-22 22:32:27,928 成功插入173 条数据
+2017-08-22 22:32:28,152 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:28,292 http://jobs.zhaopin.com:80 "GET /216494030250487.htm HTTP/1.1" 200 None
+2017-08-22 22:32:28,352 成功插入164 条数据
+2017-08-22 22:32:28,365 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:28,488 http://jobs.zhaopin.com:80 "GET /000145905257274.htm HTTP/1.1" 200 None
+2017-08-22 22:32:28,557 成功插入165 条数据
+2017-08-22 22:32:28,908 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:29,023 http://jobs.zhaopin.com:80 "GET /504828426250588.htm HTTP/1.1" 200 None
+2017-08-22 22:32:29,143 成功插入174 条数据
+2017-08-22 22:32:29,338 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:29,463 http://jobs.zhaopin.com:80 "GET /120630311253904.htm HTTP/1.1" 200 None
+2017-08-22 22:32:29,543 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:29,569 成功插入175 条数据
+2017-08-22 22:32:29,662 http://jobs.zhaopin.com:80 "GET /426535734250100.htm HTTP/1.1" 200 None
+2017-08-22 22:32:30,081 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:30,242 http://jobs.zhaopin.com:80 "GET /356626017250022.htm HTTP/1.1" 200 None
+2017-08-22 22:32:30,556 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:30,682 http://jobs.zhaopin.com:80 "GET /205108417255168.htm HTTP/1.1" 200 None
+2017-08-22 22:32:30,715 成功插入161 条数据
+2017-08-22 22:32:30,722 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:30,840 http://jobs.zhaopin.com:80 "GET /511085125250464.htm HTTP/1.1" 200 None
+2017-08-22 22:32:30,864 成功插入162 条数据
+2017-08-22 22:32:31,251 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:31,348 http://jobs.zhaopin.com:80 "GET /511085125250470.htm HTTP/1.1" 200 None
+2017-08-22 22:32:31,395 成功插入166 条数据
+2017-08-22 22:32:31,695 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:31,806 http://jobs.zhaopin.com:80 "GET /504067681250009.htm HTTP/1.1" 200 None
+2017-08-22 22:32:31,848 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:31,877 成功插入163 条数据
+2017-08-22 22:32:32,029 http://jobs.zhaopin.com:80 "GET /504067681250014.htm HTTP/1.1" 200 None
+2017-08-22 22:32:32,050 成功插入164 条数据
+2017-08-22 22:32:32,357 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:32,451 http://jobs.zhaopin.com:80 "GET /504067681250002.htm HTTP/1.1" 200 None
+2017-08-22 22:32:32,492 成功插入165 条数据
+2017-08-22 22:32:32,864 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:32,970 http://jobs.zhaopin.com:80 "GET /156822219250758.htm HTTP/1.1" 200 None
+2017-08-22 22:32:33,007 成功插入167 条数据
+2017-08-22 22:32:33,038 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:33,155 http://jobs.zhaopin.com:80 "GET /326645632250013.htm HTTP/1.1" 200 None
+2017-08-22 22:32:33,180 成功插入166 条数据
+2017-08-22 22:32:33,464 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:33,557 http://jobs.zhaopin.com:80 "GET /623237622251338.htm HTTP/1.1" 200 None
+2017-08-22 22:32:33,691 成功插入168 条数据
+2017-08-22 22:32:33,979 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:34,104 http://jobs.zhaopin.com:80 "GET /292017713250718.htm HTTP/1.1" 200 None
+2017-08-22 22:32:34,153 成功插入176 条数据
+2017-08-22 22:32:34,165 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:34,432 http://jobs.zhaopin.com:80 "GET /536432432250010.htm HTTP/1.1" 200 None
+2017-08-22 22:32:34,474 成功插入169 条数据
+2017-08-22 22:32:34,673 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:34,944 http://jobs.zhaopin.com:80 "GET /606588722250209.htm HTTP/1.1" 200 None
+2017-08-22 22:32:35,114 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:35,145 成功插入177 条数据
+2017-08-22 22:32:35,232 http://jobs.zhaopin.com:80 "GET /508981035250012.htm HTTP/1.1" 200 None
+2017-08-22 22:32:35,256 成功插入178 条数据
+2017-08-22 22:32:35,441 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:35,539 http://jobs.zhaopin.com:80 "GET /218877014250815.htm HTTP/1.1" 200 None
+2017-08-22 22:32:35,562 成功插入167 条数据
+2017-08-22 22:32:36,131 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:36,241 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:36,315 http://jobs.zhaopin.com:80 "GET /323151711252574.htm HTTP/1.1" 200 None
+2017-08-22 22:32:36,537 成功插入170 条数据
+2017-08-22 22:32:36,548 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:36,771 http://jobs.zhaopin.com:80 "GET /280255687250018.htm HTTP/1.1" 200 None
+2017-08-22 22:32:36,774 http://jobs.zhaopin.com:80 "GET /CZ716921240J00021234705.htm HTTP/1.1" 200 None
+2017-08-22 22:32:36,802 成功插入179 条数据
+2017-08-22 22:32:36,863 成功插入168 条数据
+2017-08-22 22:32:37,515 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:37,606 http://jobs.zhaopin.com:80 "GET /503578789250007.htm HTTP/1.1" 200 None
+2017-08-22 22:32:37,673 成功插入169 条数据
+2017-08-22 22:32:37,788 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:37,788 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:37,893 http://jobs.zhaopin.com:80 "GET /137261580250891.htm HTTP/1.1" 200 None
+2017-08-22 22:32:37,910 http://jobs.zhaopin.com:80 "GET /537136389250004.htm HTTP/1.1" 200 None
+2017-08-22 22:32:37,928 成功插入171 条数据
+2017-08-22 22:32:37,998 成功插入180 条数据
+2017-08-22 22:32:38,650 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:38,771 http://jobs.zhaopin.com:80 "GET /375045683250186.htm HTTP/1.1" 200 None
+2017-08-22 22:32:38,896 成功插入170 条数据
+2017-08-22 22:32:38,906 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:38,964 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:39,027 http://jobs.zhaopin.com:80 "GET /144710078250027.htm HTTP/1.1" 200 None
+2017-08-22 22:32:39,092 http://jobs.zhaopin.com:80 "GET /144710078250034.htm HTTP/1.1" 200 None
+2017-08-22 22:32:39,144 成功插入172 条数据
+2017-08-22 22:32:39,163 成功插入181 条数据
+2017-08-22 22:32:39,830 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:39,988 http://jobs.zhaopin.com:80 "GET /684130226250197.htm HTTP/1.1" 200 None
+2017-08-22 22:32:40,036 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:40,059 成功插入182 条数据
+2017-08-22 22:32:40,102 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:40,154 http://jobs.zhaopin.com:80 "GET /295150432250319.htm HTTP/1.1" 200 None
+2017-08-22 22:32:40,241 成功插入171 条数据
+2017-08-22 22:32:40,370 http://jobs.zhaopin.com:80 "GET /CZ643071620J00026374603.htm HTTP/1.1" 200 None
+2017-08-22 22:32:40,398 成功插入183 条数据
+2017-08-22 22:32:41,043 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:41,159 http://jobs.zhaopin.com:80 "GET /634516823250183.htm HTTP/1.1" 200 None
+2017-08-22 22:32:41,184 成功插入172 条数据
+2017-08-22 22:32:41,207 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:41,322 http://jobs.zhaopin.com:80 "GET /497219381250004.htm HTTP/1.1" 200 None
+2017-08-22 22:32:41,378 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:41,404 成功插入184 条数据
+2017-08-22 22:32:41,582 http://jobs.zhaopin.com:80 "GET /502333836250060.htm HTTP/1.1" 200 None
+2017-08-22 22:32:41,617 成功插入185 条数据
+2017-08-22 22:32:42,169 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:42,273 http://jobs.zhaopin.com:80 "GET /538279728250414.htm HTTP/1.1" 200 None
+2017-08-22 22:32:42,345 成功插入173 条数据
+2017-08-22 22:32:42,376 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:42,508 http://jobs.zhaopin.com:80 "GET /606443825250166.htm HTTP/1.1" 200 None
+2017-08-22 22:32:42,563 成功插入186 条数据
+2017-08-22 22:32:42,593 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:42,726 http://jobs.zhaopin.com:80 "GET /256546633250132.htm HTTP/1.1" 200 None
+2017-08-22 22:32:42,748 成功插入173 条数据
+2017-08-22 22:32:43,335 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:43,496 http://jobs.zhaopin.com:80 "GET /526818638250033.htm HTTP/1.1" 200 None
+2017-08-22 22:32:43,519 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:43,528 成功插入174 条数据
+2017-08-22 22:32:43,630 http://jobs.zhaopin.com:80 "GET /527812530250001.htm HTTP/1.1" 200 None
+2017-08-22 22:32:43,676 成功插入174 条数据
+2017-08-22 22:32:43,741 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:43,891 http://jobs.zhaopin.com:80 "GET /588833528250201.htm HTTP/1.1" 200 None
+2017-08-22 22:32:43,928 成功插入187 条数据
+2017-08-22 22:32:44,512 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:44,643 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:44,662 http://jobs.zhaopin.com:80 "GET /606443825250147.htm HTTP/1.1" 200 None
+2017-08-22 22:32:44,780 http://jobs.zhaopin.com:80 "GET /527812530250012.htm HTTP/1.1" 200 None
+2017-08-22 22:32:44,829 成功插入175 条数据
+2017-08-22 22:32:44,864 成功插入175 条数据
+2017-08-22 22:32:44,903 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:45,011 http://jobs.zhaopin.com:80 "GET /588833528250137.htm HTTP/1.1" 200 None
+2017-08-22 22:32:45,094 成功插入176 条数据
+2017-08-22 22:32:45,671 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:45,787 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:45,810 http://jobs.zhaopin.com:80 "GET /318411730250061.htm HTTP/1.1" 200 None
+2017-08-22 22:32:45,851 成功插入177 条数据
+2017-08-22 22:32:45,921 http://jobs.zhaopin.com:80 "GET /495056821250410.htm HTTP/1.1" 200 None
+2017-08-22 22:32:45,986 成功插入176 条数据
+2017-08-22 22:32:46,070 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:46,185 http://jobs.zhaopin.com:80 "GET /468566031250020.htm HTTP/1.1" 200 None
+2017-08-22 22:32:46,261 成功插入178 条数据
+2017-08-22 22:32:46,820 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:46,931 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:46,932 http://jobs.zhaopin.com:80 "GET /436267086250003.htm HTTP/1.1" 200 None
+2017-08-22 22:32:46,967 成功插入177 条数据
+2017-08-22 22:32:47,082 http://jobs.zhaopin.com:80 "GET /318411730250025.htm HTTP/1.1" 200 None
+2017-08-22 22:32:47,127 成功插入178 条数据
+2017-08-22 22:32:47,192 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:47,288 http://jobs.zhaopin.com:80 "GET /495056821250616.htm HTTP/1.1" 200 None
+2017-08-22 22:32:47,401 成功插入179 条数据
+2017-08-22 22:32:47,946 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:48,092 http://jobs.zhaopin.com:80 "GET /495056821250477.htm HTTP/1.1" 200 None
+2017-08-22 22:32:48,094 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:48,144 成功插入179 条数据
+2017-08-22 22:32:48,297 http://jobs.zhaopin.com:80 "GET /701870723250123.htm HTTP/1.1" 200 None
+2017-08-22 22:32:48,328 成功插入180 条数据
+2017-08-22 22:32:48,375 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:48,636 http://jobs.zhaopin.com:80 "GET /495056821250480.htm HTTP/1.1" 200 None
+2017-08-22 22:32:48,666 成功插入180 条数据
+2017-08-22 22:32:49,104 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:49,310 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:49,526 http://jobs.zhaopin.com:80 "GET /495056821250348.htm HTTP/1.1" 200 None
+2017-08-22 22:32:49,526 http://jobs.zhaopin.com:80 "GET /495056821250519.htm HTTP/1.1" 200 None
+2017-08-22 22:32:49,562 成功插入181 条数据
+2017-08-22 22:32:49,582 成功插入188 条数据
+2017-08-22 22:32:49,647 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:49,782 http://jobs.zhaopin.com:80 "GET /495056821250518.htm HTTP/1.1" 200 None
+2017-08-22 22:32:49,819 成功插入181 条数据
+2017-08-22 22:32:50,537 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:50,538 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:50,791 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:51,045 http://jobs.zhaopin.com:80 "GET /495056821250355.htm HTTP/1.1" 200 None
+2017-08-22 22:32:51,096 http://jobs.zhaopin.com:80 "GET /318411730250053.htm HTTP/1.1" 200 None
+2017-08-22 22:32:51,116 成功插入182 条数据
+2017-08-22 22:32:51,144 http://jobs.zhaopin.com:80 "GET /495056821250321.htm HTTP/1.1" 200 None
+2017-08-22 22:32:51,180 成功插入182 条数据
+2017-08-22 22:32:51,208 成功插入189 条数据
+2017-08-22 22:32:52,100 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:52,154 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:52,157 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:52,339 http://jobs.zhaopin.com:80 "GET /495056821250330.htm HTTP/1.1" 200 None
+2017-08-22 22:32:52,384 http://jobs.zhaopin.com:80 "GET /495056821250509.htm HTTP/1.1" 200 None
+2017-08-22 22:32:52,420 http://jobs.zhaopin.com:80 "GET /596260420250013.htm HTTP/1.1" 200 None
+2017-08-22 22:32:52,426 成功插入183 条数据
+2017-08-22 22:32:52,463 成功插入183 条数据
+2017-08-22 22:32:52,518 成功插入190 条数据
+2017-08-22 22:32:53,393 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:53,429 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:53,481 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:53,891 http://jobs.zhaopin.com:80 "GET /466575725250552.htm HTTP/1.1" 200 None
+2017-08-22 22:32:53,944 成功插入191 条数据
+2017-08-22 22:32:54,002 http://jobs.zhaopin.com:80 "GET /502333836250059.htm HTTP/1.1" 200 None
+2017-08-22 22:32:54,022 http://jobs.zhaopin.com:80 "GET /137261580250893.htm HTTP/1.1" 200 None
+2017-08-22 22:32:54,048 成功插入184 条数据
+2017-08-22 22:32:54,102 成功插入184 条数据
+2017-08-22 22:32:54,899 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:55,016 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:55,024 http://jobs.zhaopin.com:80 "GET /495056821250331.htm HTTP/1.1" 200 None
+2017-08-22 22:32:55,081 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:55,139 http://jobs.zhaopin.com:80 "GET /395099784250000.htm HTTP/1.1" 200 None
+2017-08-22 22:32:55,143 成功插入185 条数据
+2017-08-22 22:32:55,195 成功插入185 条数据
+2017-08-22 22:32:55,206 http://jobs.zhaopin.com:80 "GET /495056821250464.htm HTTP/1.1" 200 None
+2017-08-22 22:32:55,242 成功插入192 条数据
+2017-08-22 22:32:56,089 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:56,153 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:56,204 http://jobs.zhaopin.com:80 "GET /495056821250489.htm HTTP/1.1" 200 None
+2017-08-22 22:32:56,215 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:56,243 成功插入186 条数据
+2017-08-22 22:32:56,262 http://jobs.zhaopin.com:80 "GET /262678519250064.htm HTTP/1.1" 200 None
+2017-08-22 22:32:56,342 http://jobs.zhaopin.com:80 "GET /372145083250037.htm HTTP/1.1" 200 None
+2017-08-22 22:32:56,357 成功插入187 条数据
+2017-08-22 22:32:56,378 成功插入186 条数据
+2017-08-22 22:32:57,213 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:57,320 http://jobs.zhaopin.com:80 "GET /404008414250774.htm HTTP/1.1" 200 None
+2017-08-22 22:32:57,324 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:57,351 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:57,407 成功插入188 条数据
+2017-08-22 22:32:57,458 http://jobs.zhaopin.com:80 "GET /440234430250049.htm HTTP/1.1" 200 None
+2017-08-22 22:32:57,480 成功插入193 条数据
+2017-08-22 22:32:57,482 http://jobs.zhaopin.com:80 "GET /495056821250372.htm HTTP/1.1" 200 None
+2017-08-22 22:32:57,508 成功插入187 条数据
+2017-08-22 22:32:58,377 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:58,467 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:58,496 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:58,530 http://jobs.zhaopin.com:80 "GET /200619339250204.htm HTTP/1.1" 200 None
+2017-08-22 22:32:58,598 http://jobs.zhaopin.com:80 "GET /321339617250094.htm HTTP/1.1" 200 None
+2017-08-22 22:32:58,633 http://jobs.zhaopin.com:80 "GET /672013723250525.htm HTTP/1.1" 200 None
+2017-08-22 22:32:58,649 成功插入194 条数据
+2017-08-22 22:32:58,684 成功插入188 条数据
+2017-08-22 22:32:58,701 成功插入189 条数据
+2017-08-22 22:32:59,599 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:59,607 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:59,640 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:32:59,711 http://jobs.zhaopin.com:80 "GET /404202580250067.htm HTTP/1.1" 200 None
+2017-08-22 22:32:59,756 http://jobs.zhaopin.com:80 "GET /558936322250020.htm HTTP/1.1" 200 None
+2017-08-22 22:32:59,785 成功插入195 条数据
+2017-08-22 22:32:59,805 成功插入190 条数据
+2017-08-22 22:32:59,861 http://jobs.zhaopin.com:80 "GET /558936322250021.htm HTTP/1.1" 200 None
+2017-08-22 22:32:59,891 成功插入196 条数据
+2017-08-22 22:33:00,763 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:00,771 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:00,873 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:01,057 http://jobs.zhaopin.com:80 "GET /137261580250892.htm HTTP/1.1" 200 None
+2017-08-22 22:33:01,058 http://jobs.zhaopin.com:80 "GET /558936322250022.htm HTTP/1.1" 200 None
+2017-08-22 22:33:01,058 http://jobs.zhaopin.com:80 "GET /227946016250249.htm HTTP/1.1" 200 None
+2017-08-22 22:33:01,120 成功插入197 条数据
+2017-08-22 22:33:01,137 成功插入189 条数据
+2017-08-22 22:33:01,153 成功插入191 条数据
+2017-08-22 22:33:02,070 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:02,074 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:02,079 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:02,179 http://jobs.zhaopin.com:80 "GET /536336382250005.htm HTTP/1.1" 200 None
+2017-08-22 22:33:02,181 http://jobs.zhaopin.com:80 "GET /447237688250005.htm HTTP/1.1" 200 None
+2017-08-22 22:33:02,216 http://jobs.zhaopin.com:80 "GET /431755010250236.htm HTTP/1.1" 200 None
+2017-08-22 22:33:02,268 成功插入192 条数据
+2017-08-22 22:33:02,367 成功插入190 条数据
+2017-08-22 22:33:02,382 成功插入198 条数据
+2017-08-22 22:33:03,224 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:03,225 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:03,231 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:03,333 http://jobs.zhaopin.com:80 "GET /419657383250256.htm HTTP/1.1" 200 None
+2017-08-22 22:33:03,335 http://jobs.zhaopin.com:80 "GET /495056821250367.htm HTTP/1.1" 200 None
+2017-08-22 22:33:03,397 成功插入199 条数据
+2017-08-22 22:33:03,417 成功插入193 条数据
+2017-08-22 22:33:03,609 http://jobs.zhaopin.com:80 "GET /CZ723517940J00016273503.htm HTTP/1.1" 200 None
+2017-08-22 22:33:03,645 成功插入191 条数据
+2017-08-22 22:33:04,381 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:04,392 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:04,509 http://jobs.zhaopin.com:80 "GET /511085125250453.htm HTTP/1.1" 200 None
+2017-08-22 22:33:04,515 http://jobs.zhaopin.com:80 "GET /241130528250147.htm HTTP/1.1" 200 None
+2017-08-22 22:33:04,548 成功插入200 条数据
+2017-08-22 22:33:04,565 成功插入192 条数据
+2017-08-22 22:33:04,621 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:04,746 http://jobs.zhaopin.com:80 "GET /431755010250260.htm HTTP/1.1" 200 None
+2017-08-22 22:33:04,785 成功插入201 条数据
+2017-08-22 22:33:05,516 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:05,521 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:05,758 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:05,947 http://jobs.zhaopin.com:80 "GET /495056821250649.htm HTTP/1.1" 200 None
+2017-08-22 22:33:05,954 http://jobs.zhaopin.com:80 "GET /253441715250053.htm HTTP/1.1" 200 None
+2017-08-22 22:33:05,979 成功插入194 条数据
+2017-08-22 22:33:06,031 成功插入193 条数据
+2017-08-22 22:33:06,462 http://jobs.zhaopin.com:80 "GET /CZ719322940J00015678707.htm HTTP/1.1" 200 None
+2017-08-22 22:33:06,486 成功插入195 条数据
+2017-08-22 22:33:06,962 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:07,018 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:07,069 http://jobs.zhaopin.com:80 "GET /296514487250094.htm HTTP/1.1" 200 None
+2017-08-22 22:33:07,096 成功插入196 条数据
+2017-08-22 22:33:07,134 http://jobs.zhaopin.com:80 "GET /495056821250465.htm HTTP/1.1" 200 None
+2017-08-22 22:33:07,165 成功插入202 条数据
+2017-08-22 22:33:07,471 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:07,588 http://jobs.zhaopin.com:80 "GET /686909724250110.htm HTTP/1.1" 200 None
+2017-08-22 22:33:07,637 成功插入194 条数据
+2017-08-22 22:33:08,079 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:08,147 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:08,197 http://jobs.zhaopin.com:80 "GET /659183222250234.htm HTTP/1.1" 200 None
+2017-08-22 22:33:08,270 成功插入203 条数据
+2017-08-22 22:33:08,394 http://jobs.zhaopin.com:80 "GET /521225339250165.htm HTTP/1.1" 200 None
+2017-08-22 22:33:08,473 成功插入195 条数据
+2017-08-22 22:33:08,602 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:08,712 http://jobs.zhaopin.com:80 "GET /443540231250050.htm HTTP/1.1" 200 None
+2017-08-22 22:33:08,733 成功插入204 条数据
+2017-08-22 22:33:09,252 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:09,378 http://jobs.zhaopin.com:80 "GET /515014229250075.htm HTTP/1.1" 200 None
+2017-08-22 22:33:09,410 成功插入196 条数据
+2017-08-22 22:33:09,421 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:09,523 http://jobs.zhaopin.com:80 "GET /521225339250042.htm HTTP/1.1" 200 None
+2017-08-22 22:33:09,593 成功插入197 条数据
+2017-08-22 22:33:09,717 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:09,825 http://jobs.zhaopin.com:80 "GET /266761189250137.htm HTTP/1.1" 200 None
+2017-08-22 22:33:09,892 成功插入198 条数据
+2017-08-22 22:33:10,385 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:10,543 http://jobs.zhaopin.com:80 "GET /391393235250002.htm HTTP/1.1" 200 None
+2017-08-22 22:33:10,574 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:10,650 成功插入197 条数据
+2017-08-22 22:33:10,708 http://jobs.zhaopin.com:80 "GET /278458184250002.htm HTTP/1.1" 200 None
+2017-08-22 22:33:10,734 成功插入199 条数据
+2017-08-22 22:33:10,876 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:10,994 http://jobs.zhaopin.com:80 "GET /495056821250641.htm HTTP/1.1" 200 None
+2017-08-22 22:33:11,083 成功插入205 条数据
+2017-08-22 22:33:11,636 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:11,717 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:11,765 http://jobs.zhaopin.com:80 "GET /583386622250086.htm HTTP/1.1" 200 None
+2017-08-22 22:33:11,789 成功插入206 条数据
+2017-08-22 22:33:11,871 http://jobs.zhaopin.com:80 "GET /508192537250010.htm HTTP/1.1" 200 None
+2017-08-22 22:33:11,912 成功插入198 条数据
+2017-08-22 22:33:12,056 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:12,314 http://jobs.zhaopin.com:80 "GET /574811320250990.htm HTTP/1.1" 200 None
+2017-08-22 22:33:12,350 成功插入207 条数据
+2017-08-22 22:33:12,775 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:12,883 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:13,075 http://jobs.zhaopin.com:80 "GET /288155530250001.htm HTTP/1.1" 200 None
+2017-08-22 22:33:13,112 http://jobs.zhaopin.com:80 "GET /521225339250039.htm HTTP/1.1" 200 None
+2017-08-22 22:33:13,183 成功插入208 条数据
+2017-08-22 22:33:13,325 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:13,416 成功插入199 条数据
+2017-08-22 22:33:13,704 http://jobs.zhaopin.com:80 "GET /270084830250092.htm HTTP/1.1" 200 None
+2017-08-22 22:33:13,732 成功插入209 条数据
+2017-08-22 22:33:14,120 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:14,274 http://jobs.zhaopin.com:80 "GET /527812530250009.htm HTTP/1.1" 200 None
+2017-08-22 22:33:14,311 成功插入200 条数据
+2017-08-22 22:33:14,380 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:14,562 http://jobs.zhaopin.com:80 "GET /527812530250008.htm HTTP/1.1" 200 None
+2017-08-22 22:33:14,615 成功插入210 条数据
+2017-08-22 22:33:14,712 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:14,874 http://jobs.zhaopin.com:80 "GET /241849312250208.htm HTTP/1.1" 200 None
+2017-08-22 22:33:14,964 成功插入211 条数据
+2017-08-22 22:33:15,282 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:15,424 http://jobs.zhaopin.com:80 "GET /399612635251135.htm HTTP/1.1" 200 None
+2017-08-22 22:33:15,504 成功插入212 条数据
+2017-08-22 22:33:15,572 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:15,699 http://jobs.zhaopin.com:80 "GET /182889612250107.htm HTTP/1.1" 200 None
+2017-08-22 22:33:15,790 成功插入213 条数据
+2017-08-22 22:33:15,926 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:16,095 http://jobs.zhaopin.com:80 "GET /527812530250014.htm HTTP/1.1" 200 None
+2017-08-22 22:33:16,126 成功插入214 条数据
+2017-08-22 22:33:16,477 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:16,615 http://jobs.zhaopin.com:80 "GET /562244523251639.htm HTTP/1.1" 200 None
+2017-08-22 22:33:16,768 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:16,870 成功插入201 条数据
+2017-08-22 22:33:16,915 http://jobs.zhaopin.com:80 "GET /577861526250110.htm HTTP/1.1" 200 None
+2017-08-22 22:33:16,989 成功插入202 条数据
+2017-08-22 22:33:17,104 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:17,198 http://jobs.zhaopin.com:80 "GET /527812530250006.htm HTTP/1.1" 200 None
+2017-08-22 22:33:17,290 成功插入200 条数据
+2017-08-22 22:33:17,841 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:17,934 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:17,984 http://jobs.zhaopin.com:80 "GET /521225339250135.htm HTTP/1.1" 200 None
+2017-08-22 22:33:18,019 成功插入215 条数据
+2017-08-22 22:33:18,040 http://jobs.zhaopin.com:80 "GET /521225339250131.htm HTTP/1.1" 200 None
+2017-08-22 22:33:18,088 成功插入203 条数据
+2017-08-22 22:33:18,247 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:18,368 http://jobs.zhaopin.com:80 "GET /267641013250331.htm HTTP/1.1" 200 None
+2017-08-22 22:33:18,466 成功插入204 条数据
+2017-08-22 22:33:18,992 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:19,062 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:19,094 http://jobs.zhaopin.com:80 "GET /305364831250026.htm HTTP/1.1" 200 None
+2017-08-22 22:33:19,174 http://jobs.zhaopin.com:80 "GET /397569336250087.htm HTTP/1.1" 200 None
+2017-08-22 22:33:19,206 成功插入216 条数据
+2017-08-22 22:33:19,217 成功插入201 条数据
+2017-08-22 22:33:19,438 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:19,576 http://jobs.zhaopin.com:80 "GET /410490914250055.htm HTTP/1.1" 200 None
+2017-08-22 22:33:19,665 成功插入202 条数据
+2017-08-22 22:33:20,142 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:20,186 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:20,321 http://jobs.zhaopin.com:80 "GET /276718088250063.htm HTTP/1.1" 200 None
+2017-08-22 22:33:20,344 成功插入205 条数据
+2017-08-22 22:33:20,365 http://jobs.zhaopin.com:80 "GET /567302528250356.htm HTTP/1.1" 200 None
+2017-08-22 22:33:20,384 成功插入203 条数据
+2017-08-22 22:33:20,633 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:20,750 http://jobs.zhaopin.com:80 "GET /605988220250030.htm HTTP/1.1" 200 None
+2017-08-22 22:33:20,859 成功插入206 条数据
+2017-08-22 22:33:21,330 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:21,372 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:21,468 http://jobs.zhaopin.com:80 "GET /318411730250060.htm HTTP/1.1" 200 None
+2017-08-22 22:33:21,505 成功插入217 条数据
+2017-08-22 22:33:21,544 http://jobs.zhaopin.com:80 "GET /443540231250077.htm HTTP/1.1" 200 None
+2017-08-22 22:33:21,628 成功插入218 条数据
+2017-08-22 22:33:21,804 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:21,911 http://jobs.zhaopin.com:80 "GET /497069983250016.htm HTTP/1.1" 200 None
+2017-08-22 22:33:22,042 成功插入204 条数据
+2017-08-22 22:33:22,482 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:22,594 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:22,599 http://jobs.zhaopin.com:80 "GET /527812530250018.htm HTTP/1.1" 200 None
+2017-08-22 22:33:22,684 成功插入219 条数据
+2017-08-22 22:33:22,728 http://jobs.zhaopin.com:80 "GET /431598031250004.htm HTTP/1.1" 200 None
+2017-08-22 22:33:22,974 成功插入207 条数据
+2017-08-22 22:33:23,031 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:23,160 http://jobs.zhaopin.com:80 "GET /413479081250011.htm HTTP/1.1" 200 None
+2017-08-22 22:33:23,200 成功插入208 条数据
+2017-08-22 22:33:23,654 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:23,794 http://jobs.zhaopin.com:80 "GET /535117221250328.htm HTTP/1.1" 200 None
+2017-08-22 22:33:23,816 成功插入209 条数据
+2017-08-22 22:33:23,922 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:24,046 http://jobs.zhaopin.com:80 "GET /145529302250141.htm HTTP/1.1" 200 None
+2017-08-22 22:33:24,151 成功插入210 条数据
+2017-08-22 22:33:24,169 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:24,524 http://jobs.zhaopin.com:80 "GET /701870723250124.htm HTTP/1.1" 200 None
+2017-08-22 22:33:24,551 成功插入220 条数据
+2017-08-22 22:33:24,801 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:25,060 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:25,085 http://jobs.zhaopin.com:80 "GET /585435125250272.htm HTTP/1.1" 200 None
+2017-08-22 22:33:25,117 成功插入205 条数据
+2017-08-22 22:33:25,242 http://jobs.zhaopin.com:80 "GET /413479081250065.htm HTTP/1.1" 200 None
+2017-08-22 22:33:25,406 成功插入206 条数据
+2017-08-22 22:33:25,535 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:25,668 http://jobs.zhaopin.com:80 "GET /567302528250434.htm HTTP/1.1" 200 None
+2017-08-22 22:33:25,711 成功插入221 条数据
+2017-08-22 22:33:26,100 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:26,214 http://jobs.zhaopin.com:80 "GET /527812530250005.htm HTTP/1.1" 200 None
+2017-08-22 22:33:26,306 成功插入211 条数据
+2017-08-22 22:33:26,389 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:26,496 http://jobs.zhaopin.com:80 "GET /271106883250011.htm HTTP/1.1" 200 None
+2017-08-22 22:33:26,538 成功插入207 条数据
+2017-08-22 22:33:26,686 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:26,816 http://jobs.zhaopin.com:80 "GET /471040727250273.htm HTTP/1.1" 200 None
+2017-08-22 22:33:26,860 成功插入208 条数据
+2017-08-22 22:33:27,282 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:27,404 http://jobs.zhaopin.com:80 "GET /655767220250687.htm HTTP/1.1" 200 None
+2017-08-22 22:33:27,487 成功插入212 条数据
+2017-08-22 22:33:27,506 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:27,609 http://jobs.zhaopin.com:80 "GET /413479081250077.htm HTTP/1.1" 200 None
+2017-08-22 22:33:27,681 成功插入222 条数据
+2017-08-22 22:33:27,827 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:28,060 http://jobs.zhaopin.com:80 "GET /457241038250018.htm HTTP/1.1" 200 None
+2017-08-22 22:33:28,142 成功插入213 条数据
+2017-08-22 22:33:28,411 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:28,667 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:28,723 http://jobs.zhaopin.com:80 "GET /CZ742524540J00061398301.htm HTTP/1.1" 200 None
+2017-08-22 22:33:28,746 成功插入223 条数据
+2017-08-22 22:33:28,825 http://jobs.zhaopin.com:80 "GET /536945632250011.htm HTTP/1.1" 200 None
+2017-08-22 22:33:28,853 成功插入209 条数据
+2017-08-22 22:33:29,129 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:29,232 http://jobs.zhaopin.com:80 "GET /497069983250004.htm HTTP/1.1" 200 None
+2017-08-22 22:33:29,319 成功插入210 条数据
+2017-08-22 22:33:29,732 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:29,840 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:29,860 http://jobs.zhaopin.com:80 "GET /641710828250070.htm HTTP/1.1" 200 None
+2017-08-22 22:33:29,883 成功插入224 条数据
+2017-08-22 22:33:29,952 http://jobs.zhaopin.com:80 "GET /140598030250481.htm HTTP/1.1" 200 None
+2017-08-22 22:33:30,015 成功插入214 条数据
+2017-08-22 22:33:30,289 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:30,444 http://jobs.zhaopin.com:80 "GET /574732224250182.htm HTTP/1.1" 200 None
+2017-08-22 22:33:30,471 成功插入211 条数据
+2017-08-22 22:33:30,867 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:31,002 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:31,004 http://jobs.zhaopin.com:80 "GET /372217711250522.htm HTTP/1.1" 200 None
+2017-08-22 22:33:31,072 成功插入212 条数据
+2017-08-22 22:33:31,130 http://jobs.zhaopin.com:80 "GET /412683138250837.htm HTTP/1.1" 200 None
+2017-08-22 22:33:31,153 成功插入213 条数据
+2017-08-22 22:33:31,456 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:31,566 http://jobs.zhaopin.com:80 "GET /487533534250006.htm HTTP/1.1" 200 None
+2017-08-22 22:33:31,627 成功插入225 条数据
+2017-08-22 22:33:32,056 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:32,138 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:32,233 http://jobs.zhaopin.com:80 "GET /487533534250002.htm HTTP/1.1" 200 None
+2017-08-22 22:33:32,273 成功插入215 条数据
+2017-08-22 22:33:32,399 http://jobs.zhaopin.com:80 "GET /CZ747496340J00062863001.htm HTTP/1.1" 200 None
+2017-08-22 22:33:32,429 成功插入226 条数据
+2017-08-22 22:33:32,615 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:32,879 http://jobs.zhaopin.com:80 "GET /CZ723675740J00013406807.htm HTTP/1.1" 200 None
+2017-08-22 22:33:32,911 成功插入216 条数据
+2017-08-22 22:33:33,241 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:33,356 http://jobs.zhaopin.com:80 "GET /159128319250254.htm HTTP/1.1" 200 None
+2017-08-22 22:33:33,377 成功插入217 条数据
+2017-08-22 22:33:33,405 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:33,535 http://jobs.zhaopin.com:80 "GET /301479286250234.htm HTTP/1.1" 200 None
+2017-08-22 22:33:33,596 成功插入218 条数据
+2017-08-22 22:33:33,890 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:34,038 http://jobs.zhaopin.com:80 "GET /134039186250522.htm HTTP/1.1" 200 None
+2017-08-22 22:33:34,112 成功插入227 条数据
+2017-08-22 22:33:34,362 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:34,508 http://jobs.zhaopin.com:80 "GET /134039186250546.htm HTTP/1.1" 200 None
+2017-08-22 22:33:34,581 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:34,584 成功插入219 条数据
+2017-08-22 22:33:34,701 http://jobs.zhaopin.com:80 "GET /273206080250203.htm HTTP/1.1" 200 None
+2017-08-22 22:33:34,753 成功插入220 条数据
+2017-08-22 22:33:35,094 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:35,209 http://jobs.zhaopin.com:80 "GET /505112923250430.htm HTTP/1.1" 200 None
+2017-08-22 22:33:35,280 成功插入214 条数据
+2017-08-22 22:33:35,564 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:35,708 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:35,714 http://jobs.zhaopin.com:80 "GET /202726787250018.htm HTTP/1.1" 200 None
+2017-08-22 22:33:35,784 成功插入221 条数据
+2017-08-22 22:33:35,834 http://jobs.zhaopin.com:80 "GET /385474032250004.htm HTTP/1.1" 200 None
+2017-08-22 22:33:35,916 成功插入228 条数据
+2017-08-22 22:33:36,257 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:36,511 http://jobs.zhaopin.com:80 "GET /291418981250062.htm HTTP/1.1" 200 None
+2017-08-22 22:33:36,550 成功插入229 条数据
+2017-08-22 22:33:36,770 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:36,895 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:37,065 http://jobs.zhaopin.com:80 "GET /569446727250189.htm HTTP/1.1" 200 None
+2017-08-22 22:33:37,066 http://jobs.zhaopin.com:80 "GET /636470321250015.htm HTTP/1.1" 200 None
+2017-08-22 22:33:37,095 成功插入222 条数据
+2017-08-22 22:33:37,111 成功插入230 条数据
+2017-08-22 22:33:37,518 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:37,634 http://jobs.zhaopin.com:80 "GET /610353026250306.htm HTTP/1.1" 200 None
+2017-08-22 22:33:37,707 成功插入231 条数据
+2017-08-22 22:33:38,077 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:38,078 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:38,261 http://jobs.zhaopin.com:80 "GET /231355919250957.htm HTTP/1.1" 200 None
+2017-08-22 22:33:38,293 成功插入215 条数据
+2017-08-22 22:33:38,317 http://jobs.zhaopin.com:80 "GET /153550711250083.htm HTTP/1.1" 200 None
+2017-08-22 22:33:38,417 成功插入223 条数据
+2017-08-22 22:33:38,686 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:38,805 http://jobs.zhaopin.com:80 "GET /667761224250220.htm HTTP/1.1" 200 None
+2017-08-22 22:33:38,894 成功插入216 条数据
+2017-08-22 22:33:39,269 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:39,371 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:39,516 http://jobs.zhaopin.com:80 "GET /304923185250056.htm HTTP/1.1" 200 None
+2017-08-22 22:33:39,586 成功插入217 条数据
+2017-08-22 22:33:39,590 http://jobs.zhaopin.com:80 "GET /367930630250064.htm HTTP/1.1" 200 None
+2017-08-22 22:33:39,702 成功插入224 条数据
+2017-08-22 22:33:39,868 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:40,017 http://jobs.zhaopin.com:80 "GET /120154575250235.htm HTTP/1.1" 200 None
+2017-08-22 22:33:40,092 成功插入225 条数据
+2017-08-22 22:33:40,542 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:40,647 http://jobs.zhaopin.com:80 "GET /342880280250044.htm HTTP/1.1" 200 None
+2017-08-22 22:33:40,649 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:40,674 成功插入232 条数据
+2017-08-22 22:33:40,773 http://jobs.zhaopin.com:80 "GET /342880280250043.htm HTTP/1.1" 200 None
+2017-08-22 22:33:40,815 成功插入233 条数据
+2017-08-22 22:33:41,074 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:41,203 http://jobs.zhaopin.com:80 "GET /390192239250006.htm HTTP/1.1" 200 None
+2017-08-22 22:33:41,275 成功插入226 条数据
+2017-08-22 22:33:41,659 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:41,770 http://jobs.zhaopin.com:80 "GET /476766987250262.htm HTTP/1.1" 200 None
+2017-08-22 22:33:41,801 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:41,807 成功插入234 条数据
+2017-08-22 22:33:41,924 http://jobs.zhaopin.com:80 "GET /396478217250252.htm HTTP/1.1" 200 None
+2017-08-22 22:33:41,970 成功插入235 条数据
+2017-08-22 22:33:42,261 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:42,402 http://jobs.zhaopin.com:80 "GET /396478217250251.htm HTTP/1.1" 200 None
+2017-08-22 22:33:42,423 成功插入218 条数据
+2017-08-22 22:33:42,781 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:42,921 http://jobs.zhaopin.com:80 "GET /412683138250831.htm HTTP/1.1" 200 None
+2017-08-22 22:33:42,934 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:42,950 成功插入219 条数据
+2017-08-22 22:33:43,038 http://jobs.zhaopin.com:80 "GET /412683138250867.htm HTTP/1.1" 200 None
+2017-08-22 22:33:43,061 成功插入227 条数据
+2017-08-22 22:33:43,411 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:43,525 http://jobs.zhaopin.com:80 "GET /412683138250835.htm HTTP/1.1" 200 None
+2017-08-22 22:33:43,599 成功插入220 条数据
+2017-08-22 22:33:43,932 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:44,047 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:44,051 http://jobs.zhaopin.com:80 "GET /375198688250004.htm HTTP/1.1" 200 None
+2017-08-22 22:33:44,128 成功插入221 条数据
+2017-08-22 22:33:44,161 http://jobs.zhaopin.com:80 "GET /431755010250410.htm HTTP/1.1" 200 None
+2017-08-22 22:33:44,184 成功插入236 条数据
+2017-08-22 22:33:44,575 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:44,671 http://jobs.zhaopin.com:80 "GET /412683138250833.htm HTTP/1.1" 200 None
+2017-08-22 22:33:44,735 成功插入228 条数据
+2017-08-22 22:33:45,111 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:45,171 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:45,224 http://jobs.zhaopin.com:80 "GET /412683138250838.htm HTTP/1.1" 200 None
+2017-08-22 22:33:45,243 成功插入237 条数据
+2017-08-22 22:33:45,288 http://jobs.zhaopin.com:80 "GET /412683138250834.htm HTTP/1.1" 200 None
+2017-08-22 22:33:45,369 成功插入229 条数据
+2017-08-22 22:33:45,720 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:45,860 http://jobs.zhaopin.com:80 "GET /159035917250204.htm HTTP/1.1" 200 None
+2017-08-22 22:33:45,885 成功插入230 条数据
+2017-08-22 22:33:46,233 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:46,351 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:46,359 http://jobs.zhaopin.com:80 "GET /221352819251617.htm HTTP/1.1" 200 None
+2017-08-22 22:33:46,387 成功插入231 条数据
+2017-08-22 22:33:46,450 http://jobs.zhaopin.com:80 "GET /412683138250828.htm HTTP/1.1" 200 None
+2017-08-22 22:33:46,673 成功插入238 条数据
+2017-08-22 22:33:46,869 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:47,050 http://jobs.zhaopin.com:80 "GET /412683138250822.htm HTTP/1.1" 200 None
+2017-08-22 22:33:47,092 成功插入239 条数据
+2017-08-22 22:33:47,367 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:47,488 http://jobs.zhaopin.com:80 "GET /412683138250830.htm HTTP/1.1" 200 None
+2017-08-22 22:33:47,515 成功插入232 条数据
+2017-08-22 22:33:47,642 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:47,750 http://jobs.zhaopin.com:80 "GET /412683138250866.htm HTTP/1.1" 200 None
+2017-08-22 22:33:47,776 成功插入240 条数据
+2017-08-22 22:33:48,077 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:48,294 http://jobs.zhaopin.com:80 "GET /264886718250134.htm HTTP/1.1" 200 None
+2017-08-22 22:33:48,316 成功插入233 条数据
+2017-08-22 22:33:48,501 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:48,765 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:49,195 http://jobs.zhaopin.com:80 "GET /394322235250023.htm HTTP/1.1" 200 None
+2017-08-22 22:33:49,304 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:49,368 http://jobs.zhaopin.com:80 "GET /701870723250110.htm HTTP/1.1" 200 None
+2017-08-22 22:33:49,401 成功插入222 条数据
+2017-08-22 22:33:49,426 成功插入234 条数据
+2017-08-22 22:33:49,526 http://jobs.zhaopin.com:80 "GET /277560982250018.htm HTTP/1.1" 200 None
+2017-08-22 22:33:49,567 成功插入223 条数据
+2017-08-22 22:33:50,368 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:50,378 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:50,510 http://jobs.zhaopin.com:80 "GET /484053532250049.htm HTTP/1.1" 200 None
+2017-08-22 22:33:50,529 http://jobs.zhaopin.com:80 "GET /157447311250070.htm HTTP/1.1" 200 None
+2017-08-22 22:33:50,543 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:50,550 成功插入235 条数据
+2017-08-22 22:33:50,567 成功插入241 条数据
+2017-08-22 22:33:50,654 http://jobs.zhaopin.com:80 "GET /294782381250122.htm HTTP/1.1" 200 None
+2017-08-22 22:33:50,689 成功插入236 条数据
+2017-08-22 22:33:51,517 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:51,542 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:51,655 http://jobs.zhaopin.com:80 "GET /294782381250124.htm HTTP/1.1" 200 None
+2017-08-22 22:33:51,658 http://jobs.zhaopin.com:80 "GET /498142187405476.htm HTTP/1.1" 200 None
+2017-08-22 22:33:51,664 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:51,732 成功插入237 条数据
+2017-08-22 22:33:51,752 成功插入242 条数据
+2017-08-22 22:33:51,803 http://jobs.zhaopin.com:80 "GET /188409216250415.htm HTTP/1.1" 200 None
+2017-08-22 22:33:51,874 成功插入224 条数据
+2017-08-22 22:33:52,711 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:52,719 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:52,832 http://jobs.zhaopin.com:80 "GET /498142187405875.htm HTTP/1.1" 200 None
+2017-08-22 22:33:52,860 http://jobs.zhaopin.com:80 "GET /310443631250266.htm HTTP/1.1" 200 None
+2017-08-22 22:33:52,864 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:52,897 成功插入238 条数据
+2017-08-22 22:33:52,941 成功插入243 条数据
+2017-08-22 22:33:53,007 http://jobs.zhaopin.com:80 "GET /687797323250142.htm HTTP/1.1" 200 None
+2017-08-22 22:33:53,068 成功插入239 条数据
+2017-08-22 22:33:53,883 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:53,918 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:53,998 http://jobs.zhaopin.com:80 "GET /367248783250331.htm HTTP/1.1" 200 None
+2017-08-22 22:33:54,018 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:54,030 http://jobs.zhaopin.com:80 "GET /476766987250268.htm HTTP/1.1" 200 None
+2017-08-22 22:33:54,078 成功插入240 条数据
+2017-08-22 22:33:54,107 成功插入241 条数据
+2017-08-22 22:33:54,148 http://jobs.zhaopin.com:80 "GET /476766987250264.htm HTTP/1.1" 200 None
+2017-08-22 22:33:54,178 成功插入244 条数据
+2017-08-22 22:33:55,047 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:55,085 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:55,157 http://jobs.zhaopin.com:80 "GET /476766987250266.htm HTTP/1.1" 200 None
+2017-08-22 22:33:55,160 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:55,183 成功插入225 条数据
+2017-08-22 22:33:55,220 http://jobs.zhaopin.com:80 "GET /440951636250051.htm HTTP/1.1" 200 None
+2017-08-22 22:33:55,244 成功插入226 条数据
+2017-08-22 22:33:55,280 http://jobs.zhaopin.com:80 "GET /440951636250034.htm HTTP/1.1" 200 None
+2017-08-22 22:33:55,304 成功插入242 条数据
+2017-08-22 22:33:56,169 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:56,226 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:56,290 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:56,326 http://jobs.zhaopin.com:80 "GET /476766987250267.htm HTTP/1.1" 200 None
+2017-08-22 22:33:56,350 成功插入227 条数据
+2017-08-22 22:33:56,364 http://jobs.zhaopin.com:80 "GET /476766987250265.htm HTTP/1.1" 200 None
+2017-08-22 22:33:56,400 成功插入243 条数据
+2017-08-22 22:33:56,429 http://jobs.zhaopin.com:80 "GET /476766987250263.htm HTTP/1.1" 200 None
+2017-08-22 22:33:56,452 成功插入228 条数据
+2017-08-22 22:33:57,336 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:57,379 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:57,432 http://jobs.zhaopin.com:80 "GET /641710828250151.htm HTTP/1.1" 200 None
+2017-08-22 22:33:57,441 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:57,485 http://jobs.zhaopin.com:80 "GET /470018582250026.htm HTTP/1.1" 200 None
+2017-08-22 22:33:57,505 成功插入244 条数据
+2017-08-22 22:33:57,528 成功插入245 条数据
+2017-08-22 22:33:57,562 http://jobs.zhaopin.com:80 "GET /456228138250073.htm HTTP/1.1" 200 None
+2017-08-22 22:33:57,607 成功插入229 条数据
+2017-08-22 22:33:58,480 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:58,496 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:58,566 http://jobs.zhaopin.com:80 "GET /685528124250172.htm HTTP/1.1" 200 None
+2017-08-22 22:33:58,575 http://jobs.zhaopin.com:80 "GET /250488836250226.htm HTTP/1.1" 200 None
+2017-08-22 22:33:58,584 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:58,638 成功插入245 条数据
+2017-08-22 22:33:58,669 成功插入246 条数据
+2017-08-22 22:33:58,780 http://jobs.zhaopin.com:80 "GET /241849312250216.htm HTTP/1.1" 200 None
+2017-08-22 22:33:58,812 成功插入246 条数据
+2017-08-22 22:33:59,580 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:59,586 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:59,717 http://jobs.zhaopin.com:80 "GET /512876839250026.htm HTTP/1.1" 200 None
+2017-08-22 22:33:59,723 http://jobs.zhaopin.com:80 "GET /432086830250006.htm HTTP/1.1" 200 None
+2017-08-22 22:33:59,771 成功插入247 条数据
+2017-08-22 22:33:59,792 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:33:59,808 成功插入230 条数据
+2017-08-22 22:33:59,920 http://jobs.zhaopin.com:80 "GET /232415214251880.htm HTTP/1.1" 200 None
+2017-08-22 22:33:59,977 成功插入247 条数据
+2017-08-22 22:34:00,726 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:00,785 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:00,931 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:01,052 http://jobs.zhaopin.com:80 "GET /250488836250239.htm HTTP/1.1" 200 None
+2017-08-22 22:34:01,053 http://jobs.zhaopin.com:80 "GET /409287531250071.htm HTTP/1.1" 200 None
+2017-08-22 22:34:01,081 成功插入248 条数据
+2017-08-22 22:34:01,101 成功插入248 条数据
+2017-08-22 22:34:01,220 http://jobs.zhaopin.com:80 "GET /526638583250002.htm HTTP/1.1" 200 None
+2017-08-22 22:34:01,244 成功插入249 条数据
+2017-08-22 22:34:02,069 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:02,077 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:02,195 http://jobs.zhaopin.com:80 "GET /658020924250198.htm HTTP/1.1" 200 None
+2017-08-22 22:34:02,201 http://jobs.zhaopin.com:80 "GET /241130528250168.htm HTTP/1.1" 200 None
+2017-08-22 22:34:02,233 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:02,250 成功插入249 条数据
+2017-08-22 22:34:02,277 成功插入250 条数据
+2017-08-22 22:34:02,367 http://jobs.zhaopin.com:80 "GET /504253332250072.htm HTTP/1.1" 200 None
+2017-08-22 22:34:02,407 成功插入251 条数据
+2017-08-22 22:34:03,219 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:03,257 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:03,341 http://jobs.zhaopin.com:80 "GET /395099784250043.htm HTTP/1.1" 200 None
+2017-08-22 22:34:03,379 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:03,386 http://jobs.zhaopin.com:80 "GET /658020924250250.htm HTTP/1.1" 200 None
+2017-08-22 22:34:03,416 成功插入231 条数据
+2017-08-22 22:34:03,431 成功插入250 条数据
+2017-08-22 22:34:03,489 http://jobs.zhaopin.com:80 "GET /490954839250014.htm HTTP/1.1" 200 None
+2017-08-22 22:34:03,513 成功插入232 条数据
+2017-08-22 22:34:04,396 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:04,396 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:04,497 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:04,592 http://jobs.zhaopin.com:80 "GET /229701681250094.htm HTTP/1.1" 200 None
+2017-08-22 22:34:04,603 http://jobs.zhaopin.com:80 "GET /506749631250417.htm HTTP/1.1" 200 None
+2017-08-22 22:34:04,627 成功插入251 条数据
+2017-08-22 22:34:04,653 成功插入252 条数据
+2017-08-22 22:34:04,718 http://jobs.zhaopin.com:80 "GET /254188614250271.htm HTTP/1.1" 200 None
+2017-08-22 22:34:04,870 成功插入253 条数据
+2017-08-22 22:34:05,612 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:05,635 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:05,726 http://jobs.zhaopin.com:80 "GET /354307322261649.htm HTTP/1.1" 200 None
+2017-08-22 22:34:05,750 成功插入233 条数据
+2017-08-22 22:34:05,781 http://jobs.zhaopin.com:80 "GET /631511825250164.htm HTTP/1.1" 200 None
+2017-08-22 22:34:05,781 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:05,809 成功插入254 条数据
+2017-08-22 22:34:05,915 http://jobs.zhaopin.com:80 "GET /490954839250015.htm HTTP/1.1" 200 None
+2017-08-22 22:34:05,962 成功插入252 条数据
+2017-08-22 22:34:06,732 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:06,789 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:06,855 http://jobs.zhaopin.com:80 "GET /435485814250211.htm HTTP/1.1" 200 None
+2017-08-22 22:34:06,908 http://jobs.zhaopin.com:80 "GET /251155612250061.htm HTTP/1.1" 200 None
+2017-08-22 22:34:06,931 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:06,943 成功插入234 条数据
+2017-08-22 22:34:06,954 成功插入253 条数据
+2017-08-22 22:34:07,043 http://jobs.zhaopin.com:80 "GET /473390084250160.htm HTTP/1.1" 200 None
+2017-08-22 22:34:07,118 成功插入235 条数据
+2017-08-22 22:34:07,923 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:07,924 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:08,047 http://jobs.zhaopin.com:80 "GET /514737736250008.htm HTTP/1.1" 200 None
+2017-08-22 22:34:08,061 http://jobs.zhaopin.com:80 "GET /702750921250056.htm HTTP/1.1" 200 None
+2017-08-22 22:34:08,074 成功插入254 条数据
+2017-08-22 22:34:08,088 成功插入255 条数据
+2017-08-22 22:34:08,102 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:08,216 http://jobs.zhaopin.com:80 "GET /146234887251345.htm HTTP/1.1" 200 None
+2017-08-22 22:34:08,294 成功插入236 条数据
+2017-08-22 22:34:09,054 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:09,070 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:09,172 http://jobs.zhaopin.com:80 "GET /598368821250117.htm HTTP/1.1" 200 None
+2017-08-22 22:34:09,196 成功插入256 条数据
+2017-08-22 22:34:09,221 http://jobs.zhaopin.com:80 "GET /303847836250558.htm HTTP/1.1" 200 None
+2017-08-22 22:34:09,264 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:09,422 http://jobs.zhaopin.com:80 "GET /605988220250026.htm HTTP/1.1" 200 None
+2017-08-22 22:34:09,446 成功插入255 条数据
+2017-08-22 22:34:10,180 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:10,284 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:10,299 http://jobs.zhaopin.com:80 "GET /354307322261645.htm HTTP/1.1" 200 None
+2017-08-22 22:34:10,373 成功插入257 条数据
+2017-08-22 22:34:10,430 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:10,567 http://jobs.zhaopin.com:80 "GET /350770413250131.htm HTTP/1.1" 200 None
+2017-08-22 22:34:10,577 http://jobs.zhaopin.com:80 "GET /299883684250297.htm HTTP/1.1" 200 None
+2017-08-22 22:34:10,596 成功插入256 条数据
+2017-08-22 22:34:10,610 成功插入237 条数据
+2017-08-22 22:34:11,355 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:11,576 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:11,588 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:11,638 http://jobs.zhaopin.com:80 "GET /474694486250040.htm HTTP/1.1" 200 None
+2017-08-22 22:34:11,794 http://jobs.zhaopin.com:80 "GET /498361182250122.htm HTTP/1.1" 200 None
+2017-08-22 22:34:11,794 http://jobs.zhaopin.com:80 "GET /397127883250176.htm HTTP/1.1" 200 None
+2017-08-22 22:34:11,847 成功插入258 条数据
+2017-08-22 22:34:11,942 成功插入238 条数据
+2017-08-22 22:34:11,963 成功插入257 条数据
+2017-08-22 22:34:12,805 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:12,916 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:12,916 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:12,944 http://jobs.zhaopin.com:80 "GET /272529818251706.htm HTTP/1.1" 200 None
+2017-08-22 22:34:12,977 成功插入259 条数据
+2017-08-22 22:34:13,060 http://jobs.zhaopin.com:80 "GET /542775029250258.htm HTTP/1.1" 200 None
+2017-08-22 22:34:13,063 http://jobs.zhaopin.com:80 "GET /462975337250010.htm HTTP/1.1" 200 None
+2017-08-22 22:34:13,110 成功插入239 条数据
+2017-08-22 22:34:13,149 成功插入260 条数据
+2017-08-22 22:34:13,955 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:14,076 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:14,122 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:14,224 http://jobs.zhaopin.com:80 "GET /610834127250208.htm HTTP/1.1" 200 None
+2017-08-22 22:34:14,244 http://jobs.zhaopin.com:80 "GET /688998424250262.htm HTTP/1.1" 200 None
+2017-08-22 22:34:14,247 http://jobs.zhaopin.com:80 "GET /498361182250122.htm HTTP/1.1" 200 None
+2017-08-22 22:34:14,270 成功插入258 条数据
+2017-08-22 22:34:14,307 成功插入261 条数据
+2017-08-22 22:34:14,331 成功插入240 条数据
+2017-08-22 22:34:15,274 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:15,283 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:15,289 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:15,313 http://jobs.zhaopin.com:80 "GET /610834127250208.htm HTTP/1.1" 200 None
+2017-08-22 22:34:15,343 成功插入241 条数据
+2017-08-22 22:34:15,401 http://jobs.zhaopin.com:80 "GET /272529818251706.htm HTTP/1.1" 200 None
+2017-08-22 22:34:15,415 http://jobs.zhaopin.com:80 "GET /498361182250123.htm HTTP/1.1" 200 None
+2017-08-22 22:34:15,429 成功插入259 条数据
+2017-08-22 22:34:15,446 成功插入242 条数据
+2017-08-22 22:34:16,321 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:16,409 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:16,428 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:16,564 http://jobs.zhaopin.com:80 "GET /120359452259175.htm HTTP/1.1" 200 None
+2017-08-22 22:34:16,578 http://jobs.zhaopin.com:80 "GET /272529818251707.htm HTTP/1.1" 200 None
+2017-08-22 22:34:16,581 http://jobs.zhaopin.com:80 "GET /292726782250119.htm HTTP/1.1" 200 None
+2017-08-22 22:34:16,606 成功插入243 条数据
+2017-08-22 22:34:16,618 成功插入260 条数据
+2017-08-22 22:34:16,640 成功插入262 条数据
+2017-08-22 22:34:17,587 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:17,596 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:17,620 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:17,740 http://jobs.zhaopin.com:80 "GET /510413739250010.htm HTTP/1.1" 200 None
+2017-08-22 22:34:17,741 http://jobs.zhaopin.com:80 "GET /688998424250258.htm HTTP/1.1" 200 None
+2017-08-22 22:34:17,742 http://jobs.zhaopin.com:80 "GET /254982336250196.htm HTTP/1.1" 200 None
+2017-08-22 22:34:17,834 成功插入261 条数据
+2017-08-22 22:34:17,846 成功插入263 条数据
+2017-08-22 22:34:17,860 成功插入244 条数据
+2017-08-22 22:34:18,753 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:18,807 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:18,812 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:18,881 http://jobs.zhaopin.com:80 "GET /231989717250147.htm HTTP/1.1" 200 None
+2017-08-22 22:34:18,906 成功插入245 条数据
+2017-08-22 22:34:18,929 http://jobs.zhaopin.com:80 "GET /240403889250045.htm HTTP/1.1" 200 None
+2017-08-22 22:34:18,958 http://jobs.zhaopin.com:80 "GET /231989717250159.htm HTTP/1.1" 200 None
+2017-08-22 22:34:18,969 成功插入246 条数据
+2017-08-22 22:34:18,990 成功插入264 条数据
+2017-08-22 22:34:19,891 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:19,942 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:19,970 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:19,992 http://jobs.zhaopin.com:80 "GET /147213599250004.htm HTTP/1.1" 200 None
+2017-08-22 22:34:20,055 成功插入262 条数据
+2017-08-22 22:34:20,067 http://jobs.zhaopin.com:80 "GET /377716435250074.htm HTTP/1.1" 200 None
+2017-08-22 22:34:20,090 http://jobs.zhaopin.com:80 "GET /372332832250012.htm HTTP/1.1" 200 None
+2017-08-22 22:34:20,092 成功插入263 条数据
+2017-08-22 22:34:20,114 成功插入264 条数据
+2017-08-22 22:34:21,036 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:21,079 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:21,100 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:21,127 http://jobs.zhaopin.com:80 "GET /556434524250007.htm HTTP/1.1" 200 None
+2017-08-22 22:34:21,194 http://jobs.zhaopin.com:80 "GET /539349225250357.htm HTTP/1.1" 200 None
+2017-08-22 22:34:21,204 http://jobs.zhaopin.com:80 "GET /272479432250174.htm HTTP/1.1" 200 None
+2017-08-22 22:34:21,216 成功插入265 条数据
+2017-08-22 22:34:21,244 成功插入265 条数据
+2017-08-22 22:34:21,291 成功插入247 条数据
+2017-08-22 22:34:22,182 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:22,207 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:22,262 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:22,312 http://jobs.zhaopin.com:80 "GET /461203080250062.htm HTTP/1.1" 200 None
+2017-08-22 22:34:22,331 http://jobs.zhaopin.com:80 "GET /498361182250127.htm HTTP/1.1" 200 None
+2017-08-22 22:34:22,343 成功插入266 条数据
+2017-08-22 22:34:22,412 成功插入248 条数据
+2017-08-22 22:34:22,437 http://jobs.zhaopin.com:80 "GET /286522119250416.htm HTTP/1.1" 200 None
+2017-08-22 22:34:22,466 成功插入266 条数据
+2017-08-22 22:34:23,321 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:23,385 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:23,449 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:23,640 http://jobs.zhaopin.com:80 "GET /656054021250034.htm HTTP/1.1" 200 None
+2017-08-22 22:34:23,642 http://jobs.zhaopin.com:80 "GET /498361182250126.htm HTTP/1.1" 200 None
+2017-08-22 22:34:23,667 成功插入267 条数据
+2017-08-22 22:34:23,779 http://jobs.zhaopin.com:80 "GET /670610626250047.htm HTTP/1.1" 200 None
+2017-08-22 22:34:23,805 成功插入249 条数据
+2017-08-22 22:34:23,828 成功插入267 条数据
+2017-08-22 22:34:24,653 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:24,789 http://jobs.zhaopin.com:80 "GET /133884427250121.htm HTTP/1.1" 200 None
+2017-08-22 22:34:24,796 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:24,797 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:24,836 成功插入250 条数据
+2017-08-22 22:34:24,931 http://jobs.zhaopin.com:80 "GET /624498121250252.htm HTTP/1.1" 200 None
+2017-08-22 22:34:24,957 成功插入268 条数据
+2017-08-22 22:34:24,962 http://jobs.zhaopin.com:80 "GET /290791816250051.htm HTTP/1.1" 200 None
+2017-08-22 22:34:24,997 成功插入251 条数据
+2017-08-22 22:34:25,804 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:25,940 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:25,971 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:26,045 http://jobs.zhaopin.com:80 "GET /249818426251723.htm HTTP/1.1" 200 None
+2017-08-22 22:34:26,067 http://jobs.zhaopin.com:80 "GET /CZ716117340J00023547507.htm HTTP/1.1" 200 None
+2017-08-22 22:34:26,099 成功插入269 条数据
+2017-08-22 22:34:26,104 http://jobs.zhaopin.com:80 "GET /470018582250121.htm HTTP/1.1" 200 None
+2017-08-22 22:34:26,124 成功插入268 条数据
+2017-08-22 22:34:26,162 成功插入252 条数据
+2017-08-22 22:34:27,076 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:27,097 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:27,115 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:27,209 http://jobs.zhaopin.com:80 "GET /193111429251056.htm HTTP/1.1" 200 None
+2017-08-22 22:34:27,228 http://jobs.zhaopin.com:80 "GET /575409123250095.htm HTTP/1.1" 200 None
+2017-08-22 22:34:27,239 成功插入253 条数据
+2017-08-22 22:34:27,252 http://jobs.zhaopin.com:80 "GET /519834427250400.htm HTTP/1.1" 200 None
+2017-08-22 22:34:27,261 成功插入269 条数据
+2017-08-22 22:34:27,331 成功插入270 条数据
+2017-08-22 22:34:28,219 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:28,240 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:28,310 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:28,358 http://jobs.zhaopin.com:80 "GET /470018582250120.htm HTTP/1.1" 200 None
+2017-08-22 22:34:28,380 http://jobs.zhaopin.com:80 "GET /000405705251062.htm HTTP/1.1" 200 None
+2017-08-22 22:34:28,385 成功插入254 条数据
+2017-08-22 22:34:28,435 http://jobs.zhaopin.com:80 "GET /455678839250087.htm HTTP/1.1" 200 None
+2017-08-22 22:34:28,478 成功插入270 条数据
+2017-08-22 22:34:28,493 成功插入255 条数据
+2017-08-22 22:34:29,365 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:29,444 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:29,461 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:29,491 http://jobs.zhaopin.com:80 "GET /274318838250080.htm HTTP/1.1" 200 None
+2017-08-22 22:34:29,525 成功插入271 条数据
+2017-08-22 22:34:29,546 http://jobs.zhaopin.com:80 "GET /377716435250086.htm HTTP/1.1" 200 None
+2017-08-22 22:34:29,595 成功插入271 条数据
+2017-08-22 22:34:29,722 http://jobs.zhaopin.com:80 "GET /CZ715890740J00027416203.htm HTTP/1.1" 200 None
+2017-08-22 22:34:29,765 成功插入256 条数据
+2017-08-22 22:34:30,527 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:30,556 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:30,661 http://jobs.zhaopin.com:80 "GET /556434524250172.htm HTTP/1.1" 200 None
+2017-08-22 22:34:30,700 http://jobs.zhaopin.com:80 "GET /470018582250004.htm HTTP/1.1" 200 None
+2017-08-22 22:34:30,743 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:30,766 成功插入257 条数据
+2017-08-22 22:34:30,779 成功插入272 条数据
+2017-08-22 22:34:30,878 http://jobs.zhaopin.com:80 "GET /241559789250706.htm HTTP/1.1" 200 None
+2017-08-22 22:34:30,930 成功插入272 条数据
+2017-08-22 22:34:31,747 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:31,748 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:31,913 http://jobs.zhaopin.com:80 "GET /550565229250123.htm HTTP/1.1" 200 None
+2017-08-22 22:34:31,914 http://jobs.zhaopin.com:80 "GET /451725485250001.htm HTTP/1.1" 200 None
+2017-08-22 22:34:31,919 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:31,982 成功插入273 条数据
+2017-08-22 22:34:32,014 成功插入258 条数据
+2017-08-22 22:34:32,065 http://jobs.zhaopin.com:80 "GET /232415214251881.htm HTTP/1.1" 200 None
+2017-08-22 22:34:32,103 成功插入273 条数据
+2017-08-22 22:34:32,930 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:32,931 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:33,068 http://jobs.zhaopin.com:80 "GET /536596332250006.htm HTTP/1.1" 200 None
+2017-08-22 22:34:33,076 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:33,113 http://jobs.zhaopin.com:80 "GET /398493315250143.htm HTTP/1.1" 200 None
+2017-08-22 22:34:33,152 成功插入274 条数据
+2017-08-22 22:34:33,177 成功插入259 条数据
+2017-08-22 22:34:33,186 http://jobs.zhaopin.com:80 "GET /241559789250707.htm HTTP/1.1" 200 None
+2017-08-22 22:34:33,246 成功插入260 条数据
+2017-08-22 22:34:34,123 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:34,125 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:34,195 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:34,234 http://jobs.zhaopin.com:80 "GET /148159274250063.htm HTTP/1.1" 200 None
+2017-08-22 22:34:34,267 成功插入275 条数据
+2017-08-22 22:34:34,271 http://jobs.zhaopin.com:80 "GET /335245883250000.htm HTTP/1.1" 200 None
+2017-08-22 22:34:34,330 成功插入274 条数据
+2017-08-22 22:34:34,351 http://jobs.zhaopin.com:80 "GET /241849312250238.htm HTTP/1.1" 200 None
+2017-08-22 22:34:34,399 成功插入261 条数据
+2017-08-22 22:34:35,243 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:35,294 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:35,364 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:35,527 http://jobs.zhaopin.com:80 "GET /354307322262848.htm HTTP/1.1" 200 None
+2017-08-22 22:34:35,528 http://jobs.zhaopin.com:80 "GET /269316085250114.htm HTTP/1.1" 200 None
+2017-08-22 22:34:35,565 成功插入262 条数据
+2017-08-22 22:34:35,588 成功插入275 条数据
+2017-08-22 22:34:35,647 http://jobs.zhaopin.com:80 "GET /354307322262835.htm HTTP/1.1" 200 None
+2017-08-22 22:34:35,830 成功插入263 条数据
+2017-08-22 22:34:36,535 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:36,560 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:36,689 http://jobs.zhaopin.com:80 "GET /279603010251065.htm HTTP/1.1" 200 None
+2017-08-22 22:34:36,780 成功插入276 条数据
+2017-08-22 22:34:36,804 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:36,874 http://jobs.zhaopin.com:80 "GET /221352819251559.htm HTTP/1.1" 200 None
+2017-08-22 22:34:36,916 成功插入264 条数据
+2017-08-22 22:34:36,932 http://jobs.zhaopin.com:80 "GET /438366085250033.htm HTTP/1.1" 200 None
+2017-08-22 22:34:36,966 成功插入276 条数据
+2017-08-22 22:34:37,756 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:37,885 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:37,901 http://jobs.zhaopin.com:80 "GET /404464885250090.htm HTTP/1.1" 200 None
+2017-08-22 22:34:37,943 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:37,967 成功插入277 条数据
+2017-08-22 22:34:37,976 http://jobs.zhaopin.com:80 "GET /394608410250720.htm HTTP/1.1" 200 None
+2017-08-22 22:34:38,000 成功插入278 条数据
+2017-08-22 22:34:38,054 http://jobs.zhaopin.com:80 "GET /516417531250003.htm HTTP/1.1" 200 None
+2017-08-22 22:34:38,078 成功插入279 条数据
+2017-08-22 22:34:38,955 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:38,985 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:39,069 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:39,072 http://jobs.zhaopin.com:80 "GET /415480232250068.htm HTTP/1.1" 200 None
+2017-08-22 22:34:39,151 成功插入277 条数据
+2017-08-22 22:34:39,174 http://jobs.zhaopin.com:80 "GET /409287531250141.htm HTTP/1.1" 200 None
+2017-08-22 22:34:39,212 成功插入280 条数据
+2017-08-22 22:34:39,282 http://jobs.zhaopin.com:80 "GET /409443615250007.htm HTTP/1.1" 200 None
+2017-08-22 22:34:39,355 成功插入265 条数据
+2017-08-22 22:34:40,103 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:40,194 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:40,233 http://jobs.zhaopin.com:80 "GET /409287531250031.htm HTTP/1.1" 200 None
+2017-08-22 22:34:40,297 http://jobs.zhaopin.com:80 "GET /508925935250052.htm HTTP/1.1" 200 None
+2017-08-22 22:34:40,312 成功插入266 条数据
+2017-08-22 22:34:40,325 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:40,370 成功插入281 条数据
+2017-08-22 22:34:40,439 http://jobs.zhaopin.com:80 "GET /409287531250017.htm HTTP/1.1" 200 None
+2017-08-22 22:34:40,510 成功插入278 条数据
+2017-08-22 22:34:41,288 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:41,345 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:41,394 http://jobs.zhaopin.com:80 "GET /644924620250080.htm HTTP/1.1" 200 None
+2017-08-22 22:34:41,421 成功插入282 条数据
+2017-08-22 22:34:41,467 http://jobs.zhaopin.com:80 "GET /357329514250007.htm HTTP/1.1" 200 None
+2017-08-22 22:34:41,492 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:41,543 成功插入279 条数据
+2017-08-22 22:34:41,596 http://jobs.zhaopin.com:80 "GET /680600724250105.htm HTTP/1.1" 200 None
+2017-08-22 22:34:41,624 成功插入267 条数据
+2017-08-22 22:34:42,406 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:42,502 http://jobs.zhaopin.com:80 "GET /299516481250051.htm HTTP/1.1" 200 None
+2017-08-22 22:34:42,523 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:42,564 成功插入280 条数据
+2017-08-22 22:34:42,605 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:42,637 http://jobs.zhaopin.com:80 "GET /138804812252772.htm HTTP/1.1" 200 None
+2017-08-22 22:34:42,668 成功插入281 条数据
+2017-08-22 22:34:42,710 http://jobs.zhaopin.com:80 "GET /138804812252627.htm HTTP/1.1" 200 None
+2017-08-22 22:34:42,734 成功插入268 条数据
+2017-08-22 22:34:43,534 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:43,647 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:43,695 http://jobs.zhaopin.com:80 "GET /390120834250014.htm HTTP/1.1" 200 None
+2017-08-22 22:34:43,721 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:43,736 成功插入283 条数据
+2017-08-22 22:34:43,798 http://jobs.zhaopin.com:80 "GET /326222436250150.htm HTTP/1.1" 200 None
+2017-08-22 22:34:43,842 http://jobs.zhaopin.com:80 "GET /138804812252602.htm HTTP/1.1" 200 None
+2017-08-22 22:34:43,904 成功插入282 条数据
+2017-08-22 22:34:43,920 成功插入284 条数据
+2017-08-22 22:34:44,707 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:44,858 http://jobs.zhaopin.com:80 "GET /254188614250270.htm HTTP/1.1" 200 None
+2017-08-22 22:34:44,861 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:44,862 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:44,928 成功插入269 条数据
+2017-08-22 22:34:45,016 http://jobs.zhaopin.com:80 "GET /582192822250677.htm HTTP/1.1" 200 None
+2017-08-22 22:34:45,022 http://jobs.zhaopin.com:80 "GET /641710828250170.htm HTTP/1.1" 200 None
+2017-08-22 22:34:45,054 成功插入270 条数据
+2017-08-22 22:34:45,069 成功插入283 条数据
+2017-08-22 22:34:45,909 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:46,028 http://jobs.zhaopin.com:80 "GET /485623931250024.htm HTTP/1.1" 200 None
+2017-08-22 22:34:46,034 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:46,042 Starting new HTTP connection (1): jobs.zhaopin.com
+2017-08-22 22:34:46,066 成功插入285 条数据
+2017-08-22 22:34:46,191 http://jobs.zhaopin.com:80 "GET /253686714250716.htm HTTP/1.1" 200 None
+2017-08-22 22:34:46,226 成功插入284 条数据
+2017-08-22 22:34:46,341 http://jobs.zhaopin.com:80 "GET /208916480250072.htm HTTP/1.1" 200 None
+2017-08-22 22:34:46,408 成功插入271 条数据
